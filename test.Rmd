@@ -1,0 +1,7 @@
+---
+title: test
+layout: home
+output: md_document
+---
+
+this is a test
