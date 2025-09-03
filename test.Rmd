@@ -1,7 +1,9 @@
 ---
 title: test
 layout: home
-output: md_document
+output: 
+  md_document: 
+    variant: markdown_github
 ---
 
 this is a test
