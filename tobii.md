@@ -3,7 +3,7 @@ title: Tobii T60 XL eye-tracker
 layout: home
 nav_order: 4
 ---
-
+# Tobii T60 XL eye-tracker
 This is a quick guide to using COBE Lab's *Tobii T60 XL* eye tracker and
 the software *Tobii Studios*. You can read the entire guide before you
 start building you experiment or follow along as you build your
@@ -185,4 +185,4 @@ study designs. If you for example wish to add loops or feedback, you
 need to use another software than *Tobii Studios*, such as *PsychoPy*.
 
 We are currently working on a guide for how to collect eye tracking data with the *Tobii T60 XL* and *Psychopy* based on [DevStart](https://tommasoghilardi.github.io/DevStart/). 
-
+Our Eyelink 1000 is also setup to work with *PsychoPy*. 
