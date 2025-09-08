@@ -9,14 +9,12 @@ the software *Tobii Studios*. You can read the entire guide before you
 start building you experiment or follow along as you build your
 experiment.
 
-The guide also includes instructions for how to perform eye tracking
-with *PsychoPy*, if *Tobii Studios* does not support your experimental
-design.
+If *Tobii Studios* does not support your experimental
+design, you can use *PsychoPy* together with our *EyeLink 1000 eye-tracker*.
 
 ## Creating and editing an experiment
 
-You can both build and run your experiment through the software *Tobii
-Studios*.
+You can both build and run your experiment through the software *Tobii Studios*.
 
 Open *Tobii Studios*. Experiments are structured around *projects*.
 Choose 'create a new project' to create a new experiment.
@@ -80,8 +78,6 @@ experiment.
 
     -   If you want to counterbalance all elements, you can choose
         'counterbalance mode' in the left corner.
-
-    ![](images/Picture_1.png){width="200" fig-align="center"}
 
     -   If you want. to counterbalance some but not all elements, you
         can right click each element you want to counterbalance and
