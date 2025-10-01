@@ -1,5 +1,5 @@
 Layout: default
-title: COBE Lab Equipment
+title: COBE Lab Equipment Documentation
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 color_scheme: dark
@@ -8,4 +8,3 @@ logo: "/assets/images/Logo_Cognition_neg_UK.png"
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
