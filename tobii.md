@@ -180,5 +180,4 @@ After you have collected data, you can analyse the results.
 study designs. If you for example wish to add loops or feedback, you
 need to use another software than *Tobii Studios*, such as *PsychoPy*.
 
-We are currently working on a guide for how to collect eye tracking data with the *Tobii T60 XL* and *Psychopy* based on [DevStart](https://tommasoghilardi.github.io/DevStart/). 
-Our Eyelink 1000 is also setup to work with *PsychoPy*. 
+We are currently working on a guide for how to collect eye tracking data with the *Tobii T60 XL* and *Psychopy*. In the meantime, our *Eyelink 1000 eye tracker* is also setup to work with *PsychoPy*. 
