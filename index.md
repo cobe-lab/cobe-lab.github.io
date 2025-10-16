@@ -22,4 +22,6 @@ Here is a condensed list of available equipment at Cognition and Behavior Lab.
 
 See a full list of equipment and other resources [here](https://bss.au.dk/en/cognition-and-behavior-lab/for-researchers/labs-equipment).
 
+If you have any comments or suggestions for improvements, please let the lab manager, Mette, know at mettehp@econ.au.dk.
+
 *Unfortunately, we do not have the funding for the licenses for the software necessary to use our Aurora eye trackers at the moment. If you wish to use our Aurora eye trackers and have funding to pay for a license, please send an email to the lab manager, Mette, at mettehp@econ.au.dk. 
