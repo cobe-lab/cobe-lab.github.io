@@ -5,9 +5,13 @@ nav_order: 4
 ---
 # Tobii T60 XL eye-tracker
 This is a quick guide to using COBE Lab's *Tobii T60 XL* eye tracker and
-the software *Tobii Studios*. You can read the entire guide before you
+the software *Tobii Studios* for experiment building and data analysis. You can read the entire guide before you
 start building you experiment or follow along as you build your
 experiment.
+
+The *Tobii T60 XL* provides an uobtrusive way of recording gaze data. Cameras are integrated in to the 24 inch widescreen monitor, 
+enabling data to be collected in a naturalistic manner. The eye tracker has a sampling rate of 60 Hz and is apt for large stimuli displays.
+To get the best quality data, we recommend that the participant uses a chin rest to keep their head stable. COBE Lab has two chin rests available.
 
 If *Tobii Studios* does not support your experimental
 design, you can use *PsychoPy* together with our *EyeLink 1000 eye-tracker*.
@@ -181,3 +185,8 @@ study designs. If you for example wish to add loops or feedback, you
 need to use another software than *Tobii Studios*, such as *PsychoPy*.
 
 We are currently working on a guide for how to collect eye tracking data with the *Tobii T60 XL* and *Psychopy*. In the meantime, our *Eyelink 1000 eye tracker* is also setup to work with *PsychoPy*. 
+
+## Data management
+Remember to transfer the data to your personal AU-computer and store it correctly. You should never store data on COBE Lab's computers due to risk of data theft and data breach. 
+We routinely delete data stored on our equipment, so you are at risk of loosing your data, if you store it on our equipment.
+
