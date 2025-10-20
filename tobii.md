@@ -197,5 +197,5 @@ We are currently working on a guide for how to collect eye tracking data with th
 
 ## Data management
 Remember to transfer the data to your personal AU-computer and store it correctly. You should never store data on COBE Lab's computers due to risk of data theft and data breach. 
-We routinely delete data stored on our equipment, so you are at risk of loosing your data, if you store it on our equipment.
+We routinely delete data stored on our equipment, so you are at risk of loosing your data, if you store them on our equipment.
 
