@@ -10,7 +10,7 @@ This is Cognition and Behavior Lab's quick guides to use our equipment.
 Here is a condensed list of available equipment at Cognition and Behavior Lab.
 
 - EyeLink 1000 eye tracker
-- [Tobii T60 XL eye tracker](/tobii)
+- Tobii T60 XL eye tracker
 - Aurora eye tracking laptop kits*
 - HP Reverb G2 Omnicept Edition
 - Meta Quest Pro
