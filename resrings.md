@@ -75,6 +75,6 @@ The app folder contains the event marker data.
 Now you are ready to analyze your data. 
 
 ## Data management
-Remember to transfer the data to your personal AU-computer and store it correctly. You should never store data on COBE Lab's computers due to risk of data theft and data breach. 
+Remember to transfer the data to your personal AU-computer and store it correctly. You should never store data on COBE Lab's computers or iPads due to risk of data theft and data breach. 
 We routinely delete data stored on our equipment, so you are at risk of loosing your data, if you store them on our equipment.
 
