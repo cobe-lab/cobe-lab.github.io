@@ -4,7 +4,7 @@ layout: home
 nav_order: 5      
 ---
 # BIOPAC senstream research rings
-This is a quick guide of how to use our *BIOPAC senstream research rings* and how to transfer the data to the *AcqKnowledge software* for analysis.
+This is a quick guide of how to use our [*BIOPAC senstream research rings*](https://www.biopac.com/product/research-ring/) and how to transfer the data to the [*AcqKnowledge*](https://www.biopac.com/product/acqknowledge-software/) software for analysis.
 
 The *BIOPAC senstream research rings* captures high quality data from numerous physiological signals through a user-friendly portable device. 
 The rings are suited for data collection in everyday settings also outside the lab. 
@@ -56,7 +56,9 @@ Before the session you choose from the list, on the same page where to can start
 - To end the session, click on 'end session' in the top left corner.
 
 ## How to transer the data to *AcqKnowledge*
-To analyse the data you need to transfer them to a compatible software, such as *AcqKnowledge* which COBE Lab has access to.
+To analyse the data you need to transfer them to a compatible software, such as [*AcqKnowledge*](https://www.biopac.com/product/acqknowledge-software/) which COBE Lab has access to.
+*AcqKnowledge* offers a range of visualization and analytic tools. The steps below convert the data files to .csv files, so you can analyze your data in which ever program you prefer that reads .csv files.
+
 Follow these steps to transfer the data to *AcqKnowledge*:
 
 1. Find the session with the recording you wish to transfer.

@@ -4,7 +4,7 @@ layout: home
 nav_order: 4
 ---
 # Tobii T60 XL eye-tracker
-This is a quick guide to using COBE Lab's *Tobii T60 XL* eye tracker and
+This is a quick guide to using COBE Lab's [*Tobii T60 XL*](https://www.srlabs.it/wp-content/uploads/2017/07/TXL60.pdf) eye tracker and
 the software *Tobii Studios* for experiment building and data analysis. You can read the entire guide before you
 start building you experiment or follow along as you build your
 experiment.
