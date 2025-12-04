@@ -5,7 +5,7 @@ nav_order: 4
 ---
 # Tobii T60 XL eye-tracker
 This is a quick guide to using COBE Lab's [*Tobii T60 XL*](https://www.srlabs.it/wp-content/uploads/2017/07/TXL60.pdf) eye tracker and
-the software *Tobii Studios* for experiment building and data analysis. You can read the entire guide before you
+the software *Tobii Studio* for experiment building and data analysis. You can read the entire guide before you
 start building you experiment or follow along as you build your
 experiment.
 
@@ -13,23 +13,23 @@ The *Tobii T60 XL* provides an unobtrusive way of recording gaze data. Cameras a
 enabling data to be collected in a naturalistic manner. The eye tracker has a sampling rate of 60 Hz and is apt for large stimuli displays.
 To get the best quality data, we recommend that the participant uses a chin rest to keep their head stable. COBE Lab has two chin rests available.
 
-If *Tobii Studios* does not support your experimental
+If *Tobii Studio* does not support your experimental
 design, you can use *PsychoPy* together with our *EyeLink 1000 eye-tracker*.
 
 **This guide includes:**
 
 1. How to create an experiment
 2. How to run an experiment
-3. How to analyse data in *Tobii Studios*
+3. How to analyse data in *Tobii Studio*
 4. Instructions for a demo experiment and analysis
 5. How to do eye tracking with *PsychoPy*
 6. Data management in COBE Lab
 
 ## Creating and editing an experiment
 
-You can both build and run your experiment through the software *Tobii Studios*.
+You can both build and run your experiment through the software *Tobii Studio*.
 
-Open *Tobii Studios*. Experiments are structured around *projects*.
+Open *Tobii Studio*. Experiments are structured around *projects*.
 Choose 'create a new project' to create a new experiment.
 
 You build your experiment by dragging and dropping elements from the top
@@ -109,20 +109,20 @@ without recording and callibration.
 
 ## Running an experiment
 
-Choose 'start' to run your experiment. Tobii Studios opens a window
+Choose 'start' to run your experiment. Tobii Studio opens a window
 where you can put in participant information and after that, calibration
 starts.
 
 For the calibration, the participant's eyes should be visible as two
 white dots. A successful calibration is marked by short green lines
-within each circle. Tobii Studios also suggests how many points should
+within each circle. Tobii Studio also suggests how many points should
 be recalibrated, if the calibration was not satisfactory. Accept or
 recalibrate the calibrations.
 
 If you accept, a window opens to ask whether you wish to begin the
 experiment. Choose 'start recording' to begin the experiment.
 
-## Analyses in *Tobii Studios* and exporting data
+## Analyses in *Tobii Studio* and exporting data
 
 In the top row, you can click through different ways to visualize and
 analyze your data:
@@ -147,12 +147,12 @@ avoid unwanted change to the experiment.
 ## Demo experiment and analysis
 
 You can follow along here to create an experiment and analysis in *Tobii
-Studios* using the information and elements described above. This demo
+Studio* using the information and elements described above. This demo
 experiment is partly based on a workshop by Sonja Percovic.
 
 **Building an experiment**
 
-**1.** Open *Tobii Studios*. Choose 'create a new project'. Give it a
+**1.** Open *Tobii Studio*. Choose 'create a new project'. Give it a
 name, description, author and choose where it should be saved. For our
 current purposes, you can call it 'demo_experiment'. Click next.
 
@@ -189,9 +189,9 @@ After you have collected data, you can analyse the results.
 
 ## Eye tracking with *PsychoPy*
 
-*Tobii Studios* is fairly limited in terms of creating more complex
+*Tobii Studio* is fairly limited in terms of creating more complex
 study designs. If you for example wish to add loops or feedback, you
-need to use another software than *Tobii Studios*, such as *PsychoPy*.
+need to use another software than *Tobii Studio*, such as *PsychoPy*.
 
 We are currently working on a guide for how to collect eye tracking data with the *Tobii T60 XL* and *Psychopy*. In the meantime, our *Eyelink 1000 eye tracker* is also setup to work with *PsychoPy*. 
 
