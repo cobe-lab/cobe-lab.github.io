@@ -1,7 +1,8 @@
 ---
 title: Tobii T60 XL eye-tracker
-layout: home
-nav_order: 4
+layout: default
+parent: Eye Tracking
+nav_order: 1
 ---
 # Tobii T60 XL eye-tracker
 This is a quick guide to using COBE Lab's [*Tobii T60 XL*](https://www.srlabs.it/wp-content/uploads/2017/07/TXL60.pdf) eye tracker and
