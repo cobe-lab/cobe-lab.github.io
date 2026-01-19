@@ -18,7 +18,7 @@ the following directory: `cobe-lab.github.io/example code/Eyelink1000`
 ## The Setup
 
 The Eyelink 1000 eyetracker pc is located just to the left of the
-stimulus pc and has its own pc and monitor. Onces turned on you can
+stimulus pc and has its own pc and monitor. Once turned on you can
 select to run the Eyelink 1000 or a windows 7 setup:
 
 <div style="text-align: center;">
@@ -27,20 +27,20 @@ select to run the Eyelink 1000 or a windows 7 setup:
 
 </div>
 
-A good pratice is to open the window 7 interface to ensure there is
+A good pratice is to open the Windows 7 interface to ensure there is
 enough space on the PC to store the files obtained by the Eyetracker
 ([see FAQ](#faq)).
 
-Having ensured enough space, restart the Stimulus pc and select the
+Having ensured enough space, restart the eyetracker pc and select the
 Eyelink 1000 from the start-up menu. Here you’ll find the interface of
 the eyetracker on the eyetracker monitor. Generally interaction with the
 eyetracker happens unto this point on the eyetracker pc and then
-afterwards communication happens through the stim pc (if conducting
-experiments through psychopy on the stim pc).
+afterwards communication happens through the stimulus pc (if conducting
+experiments through psychopy on the stimulus pc).
 
 ## Example experiment
 
-As a convenience we have provided a small wxample experiment using
+As a convenience we have provided a small example experiment using
 psychopy in python ([code for
 experiment](.\example%20code/Eyelink1000/Eyelink_exp.py)).
 
@@ -50,7 +50,7 @@ script](.\example%20code/Eyelink1000/EyeLinkCoreGraphicsPsychoPy.py).
 
 ### Running the script on the Stimulus PC
 
-As the Stimulus PC has the right version of python installed and all
+As the stimulus pc has the right version of python installed and all
 necessary packages, one just needs to run the `Eyelink_exp.py` script.
 Running this script should open a new window with the following screen:
 
@@ -60,8 +60,8 @@ Running this script should open a new window with the following screen:
 
 </div>
 
-From this screen on the Stimulus PC keyboard hit `Enter`. This will move
-you into the interface between the Eyetracker and the Stimulus PC. Now
+From this screen on the stimulus pc keyboard hit `Enter`. This will move
+you into the interface between the Eyetracker and the stimulus pc. Now
 you should be seeing a blurry square which is what the eyetracker-camera
 is capturing.
 
@@ -80,7 +80,7 @@ the
 
 </div>
 
-Now, to calibrate the Eyetracker press `c` on the stimulus PC keyboard
+Now, to calibrate the Eyetracker press `c` on the stimulus pc keyboard
 which re-directs you to the calibration procedure:
 
 <div style="text-align: center;">
@@ -96,7 +96,7 @@ appear. When the calibration is finished a grey screen appears.
 
 Now to validate the calibration you should press the `v` key which will
 do the exact same procedure. Once finished you will find that the
-stimulus PC will display the accuracy of the calibration.
+eyetracking pc will display the accuracy of the calibration.
 
 <div style="text-align: center;">
 
@@ -283,7 +283,7 @@ script i.e:
 
 `tracker.sendMessage(f"trialID {i+1} LUMINANCE {lum} waiting for {Time_before_stim}")`
 
-### visualizing the data
+### Visualizing the data
 
 We have made a crude preprocessing pipeline in order to ensure that the
 Eyetracker works. Running this produces two plots one before the crude
