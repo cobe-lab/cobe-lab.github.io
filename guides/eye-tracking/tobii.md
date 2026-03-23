@@ -106,7 +106,7 @@ These solutions can also be combined. For example, you can have multiple
 tests and counterbalacing in the same project.
 
 Choose 'preview test' in the bottom panel to try out your experiment
-without recording and callibration.
+without recording and calibration.
 
 ## Running an experiment
 
