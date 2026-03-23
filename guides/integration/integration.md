@@ -5,11 +5,11 @@ parent: Integration
 nav_order: 1
 ---
 
-# A quick guide for integrating the *Eyelink 1000* with the *Biopack*
+# A quick guide for integrating the *Eyelink 1000* with the *Biopac*
 
 
 This is a quick guide to using COBE Lab’s *Eyelink 1000* eye tracker
-together with the *Biopack* setup.
+together with the *Biopac* setup.
 
 Before continuing please make sure you have successfully run the
 following guides
@@ -18,7 +18,7 @@ following guides
 
 - [*Eyelink 1000 guide*](.\guides/eye-tracking/eyelink1000.md)
 
-- [*Biopack guide*](.\guides/physiological/biopack.md)
+- [*Biopac guide*](.\guides/physiological/biopack.md)
 
 All code for running the experimental script and visualization of the
 data can be found in
