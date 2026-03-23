@@ -1,14 +1,33 @@
-# Eyelink 1000
+---
+title: Eyelink 1000
+layout: default
+parent: Eye Tracking
+nav_order: 1
+---
+# Eyelink 1000 eye-tracker
 
 
 ## Before starting
 
-This is a quick guide to using the *Eyelink 1000* eye tracker.
+This is a quick guide to using the [*Eyelink 1000*](https://www.sr-research.com/eyelink-1000-plus/) eye tracker with an example experiment.
+
+The *Eyelink 1000* is a very precise eye tracke with a sampling rate up to 2000 Hz. The guide includes how to run an example experiment using PsychoPy
+and how to assess data quality and visualise data in Python. The eye-tracker also integrates with [*Experiment Builder*](https://www.sr-research.com/experiment-builder/) 
+for building experiments and [*Data Viewer*](https://www.sr-research.com/data-viewer/) for data analysis.
+
+**This guide includes:**
+
+1. How to setup for an experiment
+2. A guide for running an example experiment
+3. How to assess data quality and visualise data in Python
+4. FAQ
+5. Data management in COBE Lab
+
 
 Before continuing please make sure you have successfully run the
-*Stim_pc_guide*, which you can find [here](../setup/stim_pc_guide.html)
+*stim_pc_guide*, which you can find [here](../setup/stim_pc_guide.html)
 
-All code for running the experimental script and visualization of the
+All code for running the experiment script and visualisation of the
 data can be found in the associated [github
 repository](https://github.com/cobe-lab/cobe-lab.github.io/tree/test) in
 the following directory: `cobe-lab.github.io/example code/Eyelink1000`
@@ -17,24 +36,24 @@ the following directory: `cobe-lab.github.io/example code/Eyelink1000`
 
 ## The Setup
 
-The Eyelink 1000 eyetracker pc is located just to the left of the
+The Eyelink 1000 eye tracker pc is located just to the left of the
 stimulus pc and has its own pc and monitor. Once turned on you can
-select to run the Eyelink 1000 or a windows 7 setup:
+select to run the Eyelink 1000 or a Windows 7 setup:
 
 <div style="text-align: center;">
 
-<img src="../../assets/images/Eyelink_pc.jpg" width="80%" height="auto" style="max-height: 800px; object-fit: cover;" />
+<img src="../../assets/images/Eyelink_pc.jpg" width="50%" height="auto" style="max-height: 800px; object-fit: cover;" />
 
 </div>
 
 A good pratice is to open the Windows 7 interface to ensure there is
-enough space on the PC to store the files obtained by the Eyetracker
+enough space on the pc to store the files obtained by the eye tracker
 ([see FAQ](#faq)).
 
-Having ensured enough space, restart the eyetracker pc and select the
+Having ensured enough space, restart the eye tracker pc and select the
 Eyelink 1000 from the start-up menu. Here you’ll find the interface of
-the eyetracker on the eyetracker monitor. Generally interaction with the
-eyetracker happens unto this point on the eyetracker pc and then
+the eye tracker on the eye tracker monitor. Generally interaction with the
+eye tracker happens until this point on the eye tracker pc and then
 afterwards communication happens through the stimulus pc (if conducting
 experiments through psychopy on the stimulus pc).
 
@@ -44,8 +63,8 @@ As a convenience we have provided a small example experiment using
 psychopy in python ([code for
 experiment](.\example%20code/Eyelink1000/Eyelink_exp.py)).
 
-This python script imports the eyetracker object that is used to
-interact with the eyetracker which is stored in a separate [python
+This python script imports the eye tracker object that is used to
+interact with the eye tracker which is stored in a separate [python
 script](.\example%20code/Eyelink1000/EyeLinkCoreGraphicsPsychoPy.py).
 
 ### Running the script on the Stimulus PC
@@ -56,36 +75,30 @@ Running this script should open a new window with the following screen:
 
 <div style="text-align: center;">
 
-<img src="../../assets/images/Eyelink_startup.jpg" width="80%" height="auto" style="max-height: 800px; object-fit: cover;" />
+<img src="../../assets/images/Eyelink_startup.jpg" width="50%" height="auto" style="max-height: 800px; object-fit: cover;" />
 
 </div>
 
 From this screen on the stimulus pc keyboard hit `Enter`. This will move
-you into the interface between the Eyetracker and the stimulus pc. Now
-you should be seeing a blurry square which is what the eyetracker-camera
+you into the interface between the eye tracker and the stimulus pc. Now
+you should be seeing a blurry square which is what the eye tracker-camera
 is capturing.
 
-<div style="text-align: center;">
 
-<img src="../../assets/images/Eyelink_startup.jpg" width="80%" height="auto" style="max-height: 800px; object-fit: cover;" />
-
-</div>
-
-Now make sure the eye, that you want to capture, is in the square (Use
-the
+Now make sure the eye that you want to capture is in the square (use the chin rest for stability)
 
 <div style="text-align: center;">
 
-<img src="../../assets/images/chinrest.jpg" width="80%" height="auto" style="max-height: 800px; object-fit: cover;" />
+<img src="../../assets/images/chinrest.jpg" width="50%" height="auto" style="max-height: 800px; object-fit: cover;" />
 
 </div>
 
-Now, to calibrate the Eyetracker press `c` on the stimulus pc keyboard
+Now, to calibrate the eye tracker press `c` on the stimulus pc keyboard
 which re-directs you to the calibration procedure:
 
 <div style="text-align: center;">
 
-<img src="../../assets/images/Calibration_eyelink.jpg" width="80%" height="auto" style="max-height: 800px; object-fit: cover;" />
+<img src="../../assets/images/Calibration_eyelink.jpg" width="50%" height="auto" style="max-height: 800px; object-fit: cover;" />
 
 </div>
 
@@ -100,7 +113,7 @@ eyetracking pc will display the accuracy of the calibration.
 
 <div style="text-align: center;">
 
-<img src="../../assets/images/Validation_eyelink_complete.jpg" width="80%" height="auto" style="max-height: 800px; object-fit: cover;" />
+<img src="../../assets/images/Validation_eyelink_complete.jpg" width="50%" height="auto" style="max-height: 800px; object-fit: cover;" />
 
 </div>
 
@@ -110,12 +123,12 @@ pressing the `o` key. This will continue the experiment script.
 
 Note: In order to not have interfering light in the room while
 collecting data it is now a good idea to turn off the monitor of the
-eyetracker.
+eye tracker.
 
 ## The Experiment
 
 For this experiment one have to sit and watch the screen while the
-eyelink tracks the pupil and eye. After the experiment is finished a new
+Eyelink tracks the pupil and eye. After the experiment is finished a new
 directory called `results` should have been created with two files
 inside.
 
@@ -132,16 +145,16 @@ which you can find [here](.\example%20code/Eyelink1000/EDF_converter.R).
 ## Data quality accessment
 
 When piloting your experiment you will have to ensure that the
-Eyetracker is properly setup and that the quality of the data is in good
+eye tracker is properly setup and that the quality of the data is in good
 shape. One way to do this is by running the script as described below
-and then plotting the Eyetracker data as a function of time. This is
+and then plotting the eye tracker data as a function of time. This is
 helpful especially if pupilometry is the main goal as the change in
 lumimance should greatly effect the size of the pupil. We show an
 example of this below.
 
 ### Checking Data quality for Pupilometry.
 
-First we need to convert the Eyetracking data from `.EDF` to `.ASC`. we
+First we need to convert the eyetracking data from `.EDF` to `.ASC`. we
 do this by running the function `convert_edf` from the `EDF_converter.R`
 script. This can be done with the following code in R:
 
@@ -158,7 +171,7 @@ convert_edf(here::here("example code","Eyelink1000","Data"))
 
     Skipping (ASC already exists): C:/Users/au645332/Documents/cobe-lab.github.io/example code/Eyelink1000/Data
 
-Next one can read the Eyetracking data.
+Next one can read the eyetracking data.
 
 ``` r
 asc_lines <- readLines(grep(".asc",
@@ -167,7 +180,7 @@ asc_lines <- readLines(grep(".asc",
                             value = T))
 ```
 
-The first lines of this files are meta-data about the eyetracker.
+The first lines of this files are meta-data about the eye tracker.
 
 ``` r
 head(asc_lines,12)
@@ -270,7 +283,7 @@ asc_lines[60:80]
     [20] "2077692\t 1160.6\t  771.9\t 5276.0\t..."                     
     [21] "2077693\t 1160.4\t  771.6\t 5275.0\t..."                     
 
-Each row of these are samples from the eyetracker as the sampling rate
+Each row of these are samples from the eye tracker as the sampling rate
 is 1000Hz we get a sample for each ms. The first column is the
 timestamp, the second is the x-position of the gaze the third the
 y-position of the gaze (these are in screen coordinates) and lastly the
@@ -278,7 +291,7 @@ pupil size in arbitrary units.
 
 Please note here the MSG statements particularly
 `"MSG\t2077691 trialID 1 LUMINANCE 0.6 waiting for 1"`. This is the
-message that was sent to the eyetracker from the python experimental
+message that was sent to the eye tracker from the python experimental
 script i.e:
 
 `tracker.sendMessage(f"trialID {i+1} LUMINANCE {lum} waiting for {Time_before_stim}")`
@@ -286,7 +299,7 @@ script i.e:
 ### Visualizing the data
 
 We have made a crude preprocessing pipeline in order to ensure that the
-Eyetracker works. Running this produces two plots one before the crude
+eye tracker works. Running this produces two plots one before the crude
 pre-processing and one after. This also helps to understand what the
 different messages in the `.asc` file.
 
@@ -294,7 +307,7 @@ different messages in the `.asc` file.
 plots = transform_asc(asc_lines,blink_index = 500,reference_index = 1000, downsample = 1)
 ```
 
-Lets first look at the preprocessed plot to see that the Eyetracker has
+Lets first look at the preprocessed plot to see that the eye tracker has
 worked.
 
 ``` r
@@ -309,7 +322,7 @@ with stimulus present. Each of the 2 seconds with stimulus present (the
 bightness of the screen) is colored in the colour of the screen. As is
 clearly visable with brighter stimuli we see a reduction in pupil size
 whereas with a decrease in brightness generally increases the pupil
-size. This indicates that the Eyetracker works for pupilometry.
+size. This indicates that the eye tracker works for pupilometry.
 
 Secondly one will see that the pre-stimulus and previous stimulus
 intervals do not always perfectly overlap. To further reiterate this we
@@ -329,7 +342,7 @@ the stimulus (1 second here) and then for the duration of the stimulus
 plot above was not continuously recorded and there might be several
 seconds between the black and red line when the experiment is running.
 The reason for doing this is to reduce the space required to store the
-eye tracking files as we get 1000 rows per second (sampling rate of
+eyetracking files as we get 1000 rows per second (sampling rate of
 1000Hz) which can quickly add up in memory.
 
 Lastly we might look at the data before it was preprocessed to get a
@@ -344,7 +357,7 @@ plots[[3]]
 Here we see some quite reasonable raw pupilometry data. What one should
 here focus on are the dots where the pupil size is around 1000 which is
 scattered in time. These are points where there the eye is partly closed
-and the eyetracker can’t find the eye.
+and the eye tracker can’t find the eye.
 
 The big dip just before 10 seconds is a blink. This can be seen as the
 trace of the pupil sharply goes down and a lot of points are situated
@@ -352,23 +365,28 @@ where the pupil is 0.
 
 ## FAQ
 
-### The Eyetracker and the stimulus pc do not communicate.
+### The eye tracker and the stimulus pc do not communicate.
 
-Please check the cable running from the Eyetracker pc to the stimulus
+Please check the cable running from the eye tracker pc to the stimulus
 pc:
 
 <div style="text-align: center;">
 
-<img src="../../assets/images/Eyelink_FAQ_connected.jpg" width="80%" height="auto" style="max-height: 800px; object-fit: cover;" />
+<img src="../../assets/images/Eyelink_FAQ_connected.jpg" width="50%" height="auto" style="max-height: 800px; object-fit: cover;" />
 
 </div>
 
-### The Eyetracker and stimulus do comunicate, but nothing is saved and or the script crashes.
+### The eye tracker and stimulus do comunicate, but nothing is saved and or the script crashes.
 
-Please check the memory of the Eyetracking PC
+Please check the memory of the eyetracking pc
 
 <div style="text-align: center;">
 
-<img src="../../assets/images/Eyelink_FAQ_space.jpg" width="80%" height="auto" style="max-height: 800px; object-fit: cover;" />
+<img src="../../assets/images/Eyelink_FAQ_space.jpg" width="50%" height="auto" style="max-height: 800px; object-fit: cover;" />
 
 </div>
+
+## Data management
+Remember to transfer the data to your personal AU-computer and store it correctly. You should never store data on COBE Lab's computers due to risk of data theft and data breach. 
+We routinely delete data stored on our equipment, so you are at risk of loosing your data, if you store them on our equipment.
+
