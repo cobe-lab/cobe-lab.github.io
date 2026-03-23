@@ -1,5 +1,5 @@
 ---
-title: Room A2 Stimulus PC
+title: Lab 2A Stimulus PC
 layout: default
 parent: Equipment Setup
 nav_order: 1
