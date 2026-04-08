@@ -34,7 +34,7 @@ analysis software *AcqKnowledge* is then used to observe, process and analyse
 data.
 
 For this guide we will look at how we
-can collect *Electrocardiogram*, *Respiration* and also *Eletrodermal*
+can collect *Electrocardiogram*, *Respiration* and also *Electrodermal*
 signals. We will do this following the same task as showed in the
 [Eyelink 1000
 guide](.\Guides/Eyetracker/Eyelink_1000/Eyelink_guide.html), where a
