@@ -20,7 +20,5 @@ following guides
 
 - [*Biopac guide*](.\guides/physiological/biopack.md)
 
-All code for running the experimental script and visualization of the
-data can be found in
 
 ------------------------------------------------------------------------

@@ -85,7 +85,8 @@ you should be seeing a blurry square which is what the eye tracker-camera
 is capturing.
 
 
-Now make sure the eye that you want to capture is in the square (use the chin rest for stability)
+Now make sure the eye that you want to capture is in the square (use the chin rest for stability). 
+Additionally you can click on the Eyetracker computer screen to make the tracker focus on a particular point.
 
 <div style="text-align: center;">
 

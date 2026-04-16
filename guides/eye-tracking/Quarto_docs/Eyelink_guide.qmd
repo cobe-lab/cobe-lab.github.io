@@ -50,7 +50,7 @@ From this screen on the Stimulus PC keyboard hit `Enter`. This will move you int
   <img src="../../assets/images/Eyelink_startup.jpg" width="80%" height="auto" style="max-height: 800px; object-fit: cover;" />
 </div>
 
-Now make sure the eye, that you want to capture, is in the square (Use the 
+Now make sure the eye that you want to capture is in the square (use the chin rest for stability). Additionally you can click on the Eyetracker computer screen to make the tracker focus on a particular point.
 
 <div style="text-align: center;">
   <img src="../../assets/images/chinrest.jpg" width="80%" height="auto" style="max-height: 800px; object-fit: cover;" />
