@@ -4,7 +4,7 @@ layout: default
 parent: Physiological Monitoring
 nav_order: 1
 ---
-# BIOPAC senstream research rings
+# Senstream research rings
 This is a quick guide of how to use our [*BIOPAC senstream research rings*](https://www.biopac.com/product/research-ring/) and how to transfer the data to the [*AcqKnowledge*](https://www.biopac.com/product/acqknowledge-software/) software for analysis.
 
 The *BIOPAC senstream research rings* captures high quality data from numerous physiological signals through a user-friendly portable device. 
