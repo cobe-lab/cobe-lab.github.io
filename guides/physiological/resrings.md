@@ -1,5 +1,5 @@
 ---
-title: BIOPAC senstream research rings
+title: Senstream research rings
 layout: default
 parent: Physiological Monitoring
 nav_order: 1
