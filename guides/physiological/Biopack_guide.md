@@ -146,7 +146,7 @@ window for the digital signal is to navigate to “Digital” in the MP150
 in the AcqKnowledge software, when the “Start” button in the intial
 interface is pressed. To test that the triggers work we have for
 convenience made a small python script below that sends three triggers
-to Acqknowledge. Please not the port the trigger box is connected to,
+to Acqknowledge. Please note the port the trigger box is connected to,
 here we assume its Port7:
 
     import serial
