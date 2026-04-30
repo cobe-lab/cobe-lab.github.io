@@ -6,9 +6,6 @@ nav_order: 1
 ---
 # Eyelink 1000 eye-tracker
 
-
-## Before starting
-
 This is a quick guide to using the [*Eyelink 1000*](https://www.sr-research.com/eyelink-1000-plus/) eye tracker with an example experiment.
 
 The *Eyelink 1000* is a very precise eye tracke with a sampling rate up to 2000 Hz. The guide includes how to run an example experiment using PsychoPy
@@ -61,11 +58,11 @@ experiments through psychopy on the stimulus pc).
 
 As a convenience we have provided a small example experiment using
 psychopy in python ([code for
-experiment](.\example%20code/Eyelink1000/Eyelink_exp.py)).
+experiment](https://github.com/cobe-lab/cobe-lab.github.io/blob/main/example%20code/Eyelink1000/Eyelink_exp.py)).
 
 This python script imports the eye tracker object that is used to
 interact with the eye tracker which is stored in a separate [python
-script](.\example%20code/Eyelink1000/EyeLinkCoreGraphicsPsychoPy.py).
+script](https://github.com/cobe-lab/cobe-lab.github.io/blob/main/example%20code/Eyelink1000/EyeLinkCoreGraphicsPsychoPy.py).
 
 ### Running the script on the Stimulus PC
 
