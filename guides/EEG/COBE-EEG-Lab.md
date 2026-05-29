@@ -84,6 +84,27 @@ Generally, all users will have to apply for EEG resources using the COBE Lab pre
     - [ ] Push out any extra gel that might come out with high force *before* subject arrives
   - [ ] Bundle of paper towels 
   - [ ] Measuring tape 
+  
+  - [ ] Setup for experiment:
+    - [ ] Find ampplifier kit. labelled by amplifier number 
+    - [ ] Remove amplifier and find bluetooth dongle (smallest dongle in kit)
+    - [ ] Plug in bluetooth dongle to EEG recording computer. Use the laptops (1&2) for stimulus delivery and the desktops (3&4) for recording
+    - [ ] Open the mbt streamer software 
+    - [ ] Click toggle next to 'disconnected'
+    - [ ] In pop up window either click 'scan' if no devices are listed. Otherwise if devices are listed, click on the right one
+    - [ ] Click on connect
+    
+    
+if you can't see lsl stream:
+- [ ] go to start and search 'allow an app through windows firewall'
+- [ ] change settings. you might need to elevate with heimdal first and then enter the cobe lab's username and password
+- [ ] click allow another app. From the sending computer, it is likely python. from the receiving computer it is likely mbtstreamer
+- [ ] to find the location of the app, type python list into powershell and copy the path into the pop up window 
+- [ ] click ok
+
+- [ ] open device manager
+- [ ] check that the internal bluetooth driver is disabled - note to self: we are afraid of disabling the intel(R) bluetooth driver and is it even necessary since we are not sending triggers via bluetooth
+- [ ] you disable the internal driver for the dongle - do this before you plug in the dongle for the first time
 
 **When subject arrives** 
 
@@ -115,6 +136,8 @@ Generally, all users will have to apply for EEG resources using the COBE Lab pre
 **During study**
 
 **After study**
+- [ ] change the name of the recording file to something meaningful
+- [ ] files are saved to mbtStreamer recordings
 
 **Hyperscanning mode** 
 
