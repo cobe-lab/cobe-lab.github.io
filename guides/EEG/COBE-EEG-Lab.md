@@ -158,11 +158,6 @@ if you can't see lsl stream:
 
 **Hyperscanning mode** 
 
-How to wash the cap
-Remove the amplifier from its socket and place it inside the plastic bag dedicated for washing the cap. Wash the cap in the sink in the control room using lukewarm water. Be careful not to get too much water on the amplifier even though it is inside the plastic bag. The bag is splash proof not water proof. Use the mascara brushes to clean the electrodes.
-
-Once clean, leave the cap to dry on a towel beside the sink. Only store the equipment when it is completely dry.
-
 ## How to maintain EEG consumables 
 
 **Here we discuss policy for maintaining continuous supply of EEG resources (gel, syringes, etc.)**
