@@ -28,7 +28,7 @@ All code for running the experiment script and visualisation of the
 data can be found in the associated [github
 repository](https://github.com/cobe-lab/cobe-lab.github.io/tree/test) in
 the following directory: `cobe-lab.github.io/example code/Eyelink1000`
-
+  
 ------------------------------------------------------------------------
 
 ## The Setup
