@@ -1,5 +1,5 @@
 ---
-title: COBE EEG Lab User Manual
+title: mBrainTain EEG
 layout: default
 parent: EEG
 nav_order: 1
