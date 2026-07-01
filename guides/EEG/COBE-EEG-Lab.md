@@ -1,5 +1,5 @@
 ---
-title: mBrainTain EEG equipment
+title: mBrainTrain EEG equipment
 layout: default
 parent: EEG
 nav_order: 1
