@@ -1,10 +1,14 @@
+---
+title: COBE EEG Lab User Manual
+layout: default
+parent: Eye Tracking
+nav_order: 1
+---
 # COBE EEG Laboratory
 ## User Manual
 
 **Version 1.0**  
 **Last Updated: June 2026**
-
----
 
 ## Table of Contents
 
