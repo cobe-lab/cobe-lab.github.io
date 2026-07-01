@@ -1,7 +1,7 @@
 ---
 title: COBE EEG Lab User Manual
 layout: default
-parent: Eye Tracking
+parent: EEG
 nav_order: 1
 ---
 # COBE EEG Laboratory
