@@ -97,7 +97,7 @@ All EEG equipment is stored in cabinet #5 in the EEG lab control room.
 
 <div style="text-align:; margin-bottom: 30px;">
   <figure style="margin: 0; display: inline-block;">
-    <img src="./guide_materials/amp_box.png" width="50%" alt="Amplifier" style="display: block;">
+    <img src="../../assets/images/amp_box.png" width="50%" alt="Amplifier" style="display: block;">
     <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
       Figure 1: Example EEG kit box outside (for System #2, PRO_235), can be found in Cabinet #5.
     </figcaption>
@@ -106,7 +106,7 @@ All EEG equipment is stored in cabinet #5 in the EEG lab control room.
 
 <div style="text-align:; margin-bottom: 30px;">
   <figure style="margin: 0; display: inline-block;">
-    <img src="./guide_materials/amp.png" width="50%" alt="Amplifier" style="display: block;">
+    <img src="../../assets/images/amp.png" width="50%" alt="Amplifier" style="display: block;">
     <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
       Figure 2: EEG kit contents (featuring amplifer PRO_235, Bluetooth USB dongle, USB-C to USB-A charging cable, and USB stick with mBrainTrain resources)
     </figcaption>
@@ -121,7 +121,7 @@ All EEG equipment is stored in cabinet #5 in the EEG lab control room.
 
 <div style="text-align:; margin-bottom: 30px;">
   <figure style="margin: 0; display: inline-block;">
-    <img src="./guide_materials/cap_box.png" width="50%" alt="Amplifier" style="display: block;">
+    <img src="../../assets/images/cap_box.png" width="50%" alt="Amplifier" style="display: block;">
     <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
       Figure 3: Example EEG cap box for EasyCap caps, also found in Cabinet #5. 
     </figcaption>
@@ -180,7 +180,7 @@ Ensure the following forms are ready:
 
 <div style="text-align:; margin-bottom: 30px;">
   <figure style="margin: 0; display: inline-block;">
-    <img src="./guide_materials/gel_syringes_tape.png" width="50%" alt="Amplifier" style="display: block;">
+    <img src="../../assets/images/gel_syringes_tape.png" width="50%" alt="Amplifier" style="display: block;">
     <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
       Figure 4: Materials to be prepared in advance of participant arrival. These materials should be found on the prep table in lab. 
     </figcaption>
@@ -284,7 +284,7 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
 
 <div style="text-align:; margin-bottom: 30px;">
   <figure style="margin: 0; display: inline-block;">
-    <img src="./guide_materials/reference.png" width="50%" alt="Amplifier" style="display: block;">
+    <img src="../../assets/images/reference.png" width="50%" alt="Amplifier" style="display: block;">
     <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
       Figure 5: Screenshot of software displaying impedance on reference. 
     </figcaption>
@@ -304,7 +304,7 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
 
 <div style="text-align:; margin-bottom: 30px;">
   <figure style="margin: 0; display: inline-block;">
-    <img src="./guide_materials/impedances.png" width="50%" alt="Amplifier" style="display: block;">
+    <img src="../../assets/images/impendences.png" width="50%" alt="Amplifier" style="display: block;">
     <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
       Figure 6: Example EEG cap box for EasyCap caps, also found in Cabinet #5. 
     </figcaption>
@@ -353,7 +353,7 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
 
 <div style="text-align:; margin-bottom: 30px;">
   <figure style="margin: 0; display: inline-block;">
-    <img src="./guide_materials/speaker_system.png" width="50%" alt="Amplifier" style="display: block;">
+    <img src="../../assets/images/speaker_system.png" width="50%" alt="Amplifier" style="display: block;">
     <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
       Figure 4: Communication speaker system for giving instructions to participants. 
     </figcaption>
@@ -409,7 +409,7 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
 
 <div style="text-align:; margin-bottom: 30px;">
   <figure style="margin: 0; display: inline-block;">
-    <img src="./guide_materials/dry_cap.png" width="50%" alt="Amplifier" style="display: block;">
+    <img src="../../assets/images/dry_cap.png" width="50%" alt="Amplifier" style="display: block;">
     <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
       Figure 7: Example of how to dry the EEG caps (on a towel, with the amplifer securely bundled in protective plastic bag). 
     </figcaption>
