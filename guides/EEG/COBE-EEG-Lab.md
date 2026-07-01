@@ -1,163 +1,746 @@
-# COBE EEG Lab Development
+# COBE EEG Laboratory
+## User Manual
+
+**Version 1.0**  
+**Last Updated: June 2026**
 
 ---
 
-## Equipment sharing policy
+## Table of Contents
 
-Four scenarios:
+1. [Equipment Access Policy](#equipment-access-policy)
+2. [Equipment Inventory](#equipment-inventory)
+3. [Standard Operating Procedures](#standard-operating-procedures)
+4. [Equipment Maintenance](#equipment-maintenance)
+5. [Troubleshooting](#troubleshooting)
 
-(1) PI applies for / collects EEG data
-(2) Postdoc applies for / collects EEG data
-(3) PhD applies for / collects EEG data
-(4) Bachelor's / Master's students apply for / collect EEG data
+---
 
-Responses:
+## 1. Equipment Access Policy
 
-Generally, all users will have to apply for EEG resources using the COBE Lab pre-study form. The Lab Manager and a LICS committee (Anna/Cordula?) will review requests and approve with the Lab Manager. All approved users will:
+### 1.1 General Requirements
 
-- Be registered in a shared log containing their name and exact equipment used
-- Must watch a training video / read a use protocol
-- Must submit a signed form indicating that they have done these things
-**Scenario 1:** PI does the above, no more is needed.
+All users must complete the following before using EEG equipment:
+
+- Submit a COBE Lab [pre-study form](https://bss.au.dk/fileadmin/BSS/Forskning/centre/cognitionbehaiviourlab/Forms_and_checklists/COBE_PSF_120325.pdf) for approval by the Lab Manager and LICS representative 
+- Be registered in the equipment usage log (name and specific equipment used)
+- Read this User Manual 
+- Submit a signed [acknowledgment form](#appendix-b-training-acknowledgement-form) confirming completion of training (above requirements + any additional steps listed in 1.2)
+
+### 1.2 User Categories & Requirements
+
+**Principal Investigators (PIs)**
+
+- Complete general requirements listed in 1.1
+- No additional steps required
+
+**Postdoctoral Researchers**
+
+- Complete general requirements in 1.1
+- Obtain PI signature on [acknowledgment form](#appendix-b-training-acknowledgement-form) confirming awareness of equipment use
+
+**PhD Students**
+
+- Both PI and student must complete requirements listed above 
+- Both must sign [acknowledgment form](#appendix-b-training-acknowledgement-form)
+
+**Bachelor's/Master's Students**
+
+- Both PI and student must complete general requirements in 1.1
+- Both must sign [acknowledgment form](#appendix-b-training-acknowledgement-form)
+- **Must complete at least 1 supervised pilot session with PI before collecting participant data**
+
+### 1.3 Equipment & Room booking
+
+All users must book both the room and the specific equipment that they plan to use. Users are accomodated on a first-come-first-serve basis. This is the general COBE Lab Policy, which you can find here: https://bss.au.dk/en/cognition-and-behavior-lab.
+
+---
+
+## 2. Equipment Inventory
+
+All EEG equipment is stored in cabinet #5 in the EEG lab control room. 
+
+> *Indicates item that have not yet been ordered. 
+
+> **Note:** Please notify the Lab Manager if any consumables are running  low or equipment needs maintenance. 
+
+### 2.1 EEG System 01
+- **Amplifier (ID: PRO_234)**
+- **Charging USB cable** (1)
+- **Software USB dongle** (1)
+- **Bluetooth USB dongle** (1)
+
+### 2.2 EEG System 02
+- **Amplifier: (ID: PRO_235)**
+- **Charging USB cable** (1)
+- **Software USB dongle** (1)
+- **Bluetooth USB dongle** (1)
+
+### 2.3 EEG Caps and Accessories
+- 32-channel 56cm caps (2 caps: PRO_00116, PRO_00112)
+- 32-channel 54cm cap*
+- 32-channel 58cm cap*
+- Electrode cleaning brushes (2 bags x 25 brushes / bag)
+- Plastic wash-bags (2)
+- Conductive gel (2 bottles: check expiration dates before use)
+
+### 2.4 Additional Items for Data Collection
+- Biohazard waste disposal bucket for syringe tips (1)
+- Measuring tape (1)
+- Towel (1)
+- Hairdryer (1)
+- Shampoo (1)
 
 
-**Scenario 2:** Postdoc does the above, PI must sign form indicating knowledge of postdoc's use.
+
+<div style="height: 40px;"></div>
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="./guide_materials/amp_box.png" width="50%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
+      Figure 1: Example EEG kit box outside (for System #2, PRO_235), can be found in Cabinet #5.
+    </figcaption>
+  </figure>
+</div>
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="./guide_materials/amp.png" width="50%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
+      Figure 2: EEG kit contents (featuring amplifer PRO_235, Bluetooth USB dongle, USB-C to USB-A charging cable, and USB stick with mBrainTrain resources)
+    </figcaption>
+  </figure>
+</div>
+
+<div style="text-align: center;">
+</div>
+
+<div style="height: 40px;"></div>
 
 
-**Scenario 3:** PI AND postdoc complete training and sign form.
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="./guide_materials/cap_box.png" width="50%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
+      Figure 3: Example EEG cap box for EasyCap caps, also found in Cabinet #5. 
+    </figcaption>
+  </figure>
+</div>
 
 
-**Scenario 4:** PI AND students complete training, sign form and must complete at least 1 pilot together before collecting participants.
+### 2.5 Timing Test Equipment
+- Latency testing box for testing synchronization of auditory and visual stimuli with EEG (2)*
 
 
-## Equipment list
+---
 
-**EEG System 01**
+## 3. Standard Operating Procedures
 
-- [ ] Amplifier PRO_234
-- [ ] Charging USB cable
-- [ ] Software USB dongle
-- [ ] Bluetooth USB dongle 
+### 3.1 Pre-Session Setup
 
-**EEG System 02**
+#### 3.1.0 Check charge on amplifier(s)
 
-- [ ] Amplifier PRO_235
-- [ ] Charging USB cable
-- [ ] Software USB dongle
-- [ ] Bluetooth USB dongle 
+1. Take desired amplifier out of EEG kit
+2. Plug in USB dongle in EEG kit to EEG recording computer
+3. Elevate user privileges by enabling Heimdal software:
+    - Click on bottom panel > lower right arrow icon > blue and white icon 
+    - Click on Privileges & Apps Control 
+    - Click Request admin privileges
+4. Start MBT software on recording computer
+5. Click toggle next to "Disconnected" to Connect
+6. Choose device from drop-down menu (if it does not appear, click Scan, then select device)
+7. Press "Stream"
+8. Battery level is indicated in the upper left corner
+9. If charged, no need to do more. If not charged, see charging instructions at bottom of manual. 
 
-**EEG Caps & Accessories**
-- [ ] 32-ch 56cm cap PRO_00116
-- [ ] 32-ch 56cm cap PRO_00112
-- [ ] Brushes for cleaning electrodes (x2, 25 brushes per bag)
-- [ ] Plastic wash-bags (x2)
-- [ ] Gel (x2, 1 expires Dec 2026, the other expires July 31 2027 or 12 months after opening)
-- [ ] Biohazard waste disposal bucket for syringe tips (x1)
-- [ ] Measuring tape
+<div align="center">
 
-**Hairwashing**
-- [ ] 1 towel
-- [ ] 1 hairdryer
-- [ ] 1 shampoo
+> [Watch video of how to open mbt software](https://youtu.be/vnpgimI0PW8)
+</div>
 
-## EEG Wishlist ##
+#### 3.1.1 Prepare Documentation
 
-- [ ] More towels
-- [ ] Find hairdryer
-- [ ] More shampoo 
-- [ ] More caps 
+Ensure the following forms are ready:
 
-## EEG Use Protocol
+- EEG Information Sheet
+- Participant Information Sheet
+- Consent Form
+- [Head measurement log](#appendix-a-head-measurement-log) 
 
-**Before subject arrives**
+#### 3.1.2 Prepare Gelling Station
 
-- [ ] Prepare forms:
-  - [ ] EEG Information Sheet
-  - [ ] Participant Information Sheet
-  - [ ] Consent Form
-  - [ ] Head measurement log 
+1. Place 1 bottle of gel on a convenient surface
+2. Fill 4 syringes with gel:
+   - Minimize air bubbles during filling
+   - Test each syringe by pushing out excess gel that may come out with force
+3. Prepare a bundle of paper towels
+4. Have measuring tape ready 
 
-- [ ] Prepare gelling station in the lab room:
-  - [ ] 1 bottle of gel is placed on convenient surface 
-  - [ ] Fill 4 syringes with gel:
-    - [ ] Try to reduce air bubbles 
-    - [ ] Push out any extra gel that might come out with high force *before* subject arrives
-  - [ ] Bundle of paper towels 
-  - [ ] Measuring tape 
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="./guide_materials/gel_syringes_tape.png" width="50%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
+      Figure 4: Materials to be prepared in advance of participant arrival. These materials should be found on the prep table in lab. 
+    </figcaption>
+  </figure>
+</div>
+
+#### 3.1.3 EEG System Setup
+> **Note**: Please only use the amplifier(s) assigned to your experiment in the usage log (should be same for every recording session in your experiment)
+
+1. Locate the amplifier kit for your experiment (labelled by ID)
+2. Remove the amplifier and locate the Bluetooth dongle (smallest dongle in kit)
+3. Connect the Bluetooth dongle to the EEG recording computer (all computers have the software installed, so choose one), either in PC rack or USB extension 
+4. Elevate user privileges by enabling Heimdal software:
+    - Click on bottom panel > lower right arrow icon > blue and white icon 
+    - Click on Privileges & Apps Control 
+    - Click Request admin privileges
+5. Open the mBrainTrain (MBT) Streamer software from the EEG recording computer Desktop
+    - If the software prompts you for a username and password, find both inside cabinet #5
+6. In the MBT software, click the toggle next to 'Disconnected' (see the upper left window)
+7. A pop-up window will appear:
+   - If no devices are listed, click 'Scan'
+   - If devices are listed, select the amplifier associated with your experiment (PRO_234 or PRO_235)
+8. Click 'Connect'
+9. Insert the amplifier into the cap's amplifier holder so that the pins are connected 
+10. Snap the amplifier holder into the the cap so that it is secure
+
+<div align="center">
+
+> [Watch video of how to insert amplifier into cap](https://youtube.com/shorts/osUlLfFy6xo?feature=share)
+</div>
+
+    
+### 3.2 Participant Arrival and Cap Fitting
+
+#### 3.2.1 Documentation and Orientation
+
+1. Complete all required forms with the participant
+2. Ensure the participant reads the EEG Information Sheet which you can find in the lab
+3. Explain the process:
+   - Head measurement procedure
+   - Gel application process
+   - What they will experience during the session
+
+#### 3.2.2 Head Measurement
+
+**Initial Measurement:**
+
+1. Measure head circumference by wrapping the tape measure around the head at the level of the forehead center
+2. Record measurement in the [head measurement log](#appendix-a-head-measurement-log) (this is for your records)
+3. Select the correctly sized cap (we have 2 56cm, 1 58*, 54*)
+
+**Cap Placement:**
+
+You can find the brochure on cap measurement in the lab to help with the steps below.
+
+1. Place the cap on the participant's head
+   - Hold the cap from the inside to avoid touching electrodes
+   - Ensure the cap fabric lies flat (not bunched) on the head
+   - If needed, you may remove the amplifier from the socket to locate the inion
+
+**Electrode Positioning Verification:**
+
+Verify that electrode Cz (electrode #18) is centered between the following anatomical landmarks:
+
+- **Nasion-to-Inion:**
+  - Place the 0cm point of the tape measure at the nasion (dip between eyebrows at the nose bridge)
+  - Measure to the inion (bony ridge at the back of the head, underneath the hair)
+  - Record this distance in the [head measurement log](#appendix-a-head-measurement-log)
+
+- **Pre-Auricular Points (Left-to-Right):**
+  - Locate the gap between the upper and lower jaw next to each ear
+  - Measure the distance between left and right pre-auricular points
+  - Record this distance in the [head measurement log](#appendix-a-head-measurement-log) 
   
-  - [ ] Setup for experiment:
-    - [ ] Find amplifier kit. Labelled by amplifier number 
-    - [ ] Remove amplifier and find bluetooth dongle (smallest dongle in kit)
-    - [ ] Plug in bluetooth dongle to EEG recording computer. Use the laptops (1&2) for stimulus delivery and the desktops (3&4) for recording
-    - [ ] Open the mbt streamer software 
-    - [ ] Click toggle next to 'disconnected'
-    - [ ] In pop up window either click 'scan' if no devices are listed. Otherwise if devices are listed, click on the right one
-    - [ ] Click on connect
-    - [ ] Slot the amplifier into the cap and snap/secure it to the back
-    
-    
-if you can't see lsl stream:
-- [ ] go to start and search 'allow an app through windows firewall'
-- [ ] change settings. you might need to elevate with heimdal first and then enter the cobe lab's username and password
-- [ ] click allow another app. From the sending computer, it is likely python. from the receiving computer it is likely mbtstreamer
-- [ ] to find the location of the app, type python list into powershell and copy the path into the pop up window 
-- [ ] click ok
 
-- [ ] open device manager
-- [ ] check that the internal bluetooth driver is disabled - note to self: we are afraid of disabling the intel(R) bluetooth driver and is it even necessary since we are not sending triggers via bluetooth
-- [ ] you disable the internal driver for the dongle - do this before you plug in the dongle for the first time
+### 3.3 Gel Application and Impedance Check
 
-**When subject arrives** 
+#### 3.3.1 Initial Setup
 
-- [ ] Fill out forms (make sure they read EEG information sheet)
-- [ ] Explain to them the process of EEG head measurement & gel application 
-  - [ ] **Write script for this**
-- [ ] Measure head size:
-  - [ ] Measure head circumference by wrapping tape measure around head, where tape measure is at the level of the subject's forehead center. 
-  - [ ] Now place the cap on the subjects' head (be careful not to touch the electrodes, try to hold cap from inside). The cloth on the cap should not bunched but as flat as possible on the subject's head. If you have trouble finding the inion, you can remove the amplifier from the socket at the back of the cap.
-  - [ ] Measure cap to make sure that electrode Cz (electrode #18) is centered between nasion and inion and pre-auricular points:
-     - [ ] Nasion-to-inion: Place 0cm point on tape measure over nose bridge, in dip between eyebrows. This is the nasion. Measure the distance from nasion to the bony ridge at the back of the subject's head (underneath their hair). Record this distance in the head measurement log.
-     - [ ] Pre-auricular points: Find gap between upper and lower jaw next to the ear on the left side and the right side and measure this distance. Record in the head measurement log. 
-- [ ] Prepare the cap for gelling & impedance monitoring:
-  - [ ] Turn on the recording software and navigate to the settings tab.
-  - [ ] Select the mounting setting
-  - [ ] Click on streaming in the recording software
-  - [ ] Fill the ground electrode (white, labeled DLR), the reference electrode (blue, labeled CMS) and a third electrode with gel. To properly fill each electrode, you should: 
-    1) move the hair slightly with the applicator
-    2) add gel
-    3) move the applicator around on the head
-- [ ] Continuously adjust gel in REF/GND electrodes until impedance display goes below 10 (light green for REF/GND electrodes)
-- [ ] Once you have filled the three electrodes, turn off streaming
-- [ ] Under impedance measurement, change to all electrodes
-- [ ] Turn streaming back on
-- [ ] Then gel all other electrodes (each one should turn green, light (=10kOhm) is optimal, dark(=20kOhm) is acceptable). This can take a really long time.
-- [ ] Turn impedance measurement off and stop streaming
-- [ ] Turn streaming on one more time & look at visualization by Signals tab: You can confirm from the visualisation whether the data quality is good. The visualisation is processed, only the raw data is stored (**look into this!!**)
-- [ ] As you fill the cap, avoid to get gel on surfaces
+1. Turn on the recording software and navigate to the **Settings** tab
+2. Select the **CapMounting** setting
+3. Click **Streaming** in the recording software
 
-**During study**
-- [ ] You can give the subject instructions through the speaker system to the right on the table in the control room. Turn on all three pieces (you turn on the microphone by opening the cover).
-- [ ] Remember to turn off the speaker system when the experiment is ongoing.
-- [ ] You can see the participant on the video stream via the laptop in the control room (not there yet, but Mads will provide it) 
+#### 3.3.2 Reference and Ground Electrodes
 
-**After study**
-- [ ] Stop recording and disconnect the amplifier in the software
-- [ ] Remove the cap from the participant's head and prepare to clean the cap. Place the amplifier by the sink while you show the participant out.
-- [ ] Change the name of the recording file to something meaningful
-- [ ] Files are saved to mbtStreamer recordings
-- [ ] Clean the cap (see instructions below)
-- [ ] Empty any trash in the lab into the trashcans in the hallway.
+**Fill the following electrodes first:**
 
-**Cleaning the cap**
-- [ ] Clean your hands before you clean the cap because they might have gel on them
-- [ ] Place the amplifier in the clear bag and as much of the cables as possible
-- [ ] Clean the cap using the mascara brushes in the sink the lab as seen in this video https://www.youtube.com/watch?v=pPvsxgS5FQ4
-- [ ] Place the cap on a towel by the sink after cleaning while the amplifier is still in the clear bag.
-- [ ] Let the cap dry completely before you store it and the amplifier
-- [ ] Push any gel in back into the tub with gel and clean the syringes with water 
+- Ground electrode (white, labeled DLR)
+- Reference electrode (blue, labeled CMS)
+- One additional electrode
 
-**Hyperscanning mode** 
+**Proper gel application technique:**
 
-## How to maintain EEG consumables 
+1. Gently move hair aside with the applicator
+2. Apply gel
+3. Move the applicator in a circular motion on the scalp
 
-**Here we discuss policy for maintaining continuous supply of EEG resources (gel, syringes, etc.)**
+**Monitor impedance:**
+
+- Continuously adjust gel in REF/GND electrodes until impedance drops below 10kΩ (light green indicator)
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="./guide_materials/reference.png" width="50%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
+      Figure 5: Screenshot of software displaying impedance on reference. 
+    </figcaption>
+  </figure>
+</div>
+
+#### 3.3.3 All Electrodes
+
+1. Once the three initial electrodes are complete, stop streaming
+2. Navigate to setting tab. Under **Impedance Measurement**, change to **All Electrodes**
+3. Restart streaming
+4. Apply gel to all remaining electrodes
+   - **Optimal:** Light green (≤10kΩ)
+   - **Acceptable:** Dark green (≤20kΩ)
+   - Note: This process may take considerable time
+
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="./guide_materials/impedances.png" width="50%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
+      Figure 6: Example EEG cap box for EasyCap caps, also found in Cabinet #5. 
+    </figcaption>
+  </figure>
+</div>
+
+<div align="center">
+
+> [Watch video of how adjust settings for impedence measurement](https://youtu.be/NAlAlnSV24I)
+</div>
+
+#### 3.3.4 Final Signal Check
+
+1. Turn off impedance measurement and stop streaming
+2. Start streaming again and navigate to the **Signals** tab
+3. Verify data quality through the visualization
+   - Note: Visualization shows processed data; raw data is what gets stored
+
+**Important:** Avoid getting gel on surrounding surfaces during application
+
+### 3.4 Data Collection
+
+#### 3.4.1 Start EEG recording
+1. Make sure that Streaming is set to "on"
+2. Click red "Record" button
+3. In pop-up window:
+    - File format = "xdf file" or "bdf file" (both are easily readable by MATLAB & Python)
+    - Folder = Path to your experiment folder
+    - Name = You preferred name
+    - Check all available LSL streams
+    - Click PC recording (otherwise you will save to SD card on the amplifier, which we do not have a protocol for at the moment)
+    - Open the Signals tab to monitor Signal + triggers
+4. Start your experiment on the stimulus presentation machine 
+
+<div align="center">
+
+> [Watch video of how to make recording in mbt software](https://youtu.be/5oC-Jjeuayc)
+</div>
+
+
+#### 3.4.2 Communication System
+
+- Use the speaker system (located to the right on the control room table) to give instructions to the participant
+- Turn on all three components (open the microphone cover to activate it)
+- **Turn off the speaker system once the experiment begins**
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="./guide_materials/speaker_system.png" width="50%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
+      Figure 4: Communication speaker system for giving instructions to participants. 
+    </figcaption>
+  </figure>
+</div>
+
+#### 3.4.3 Participant Monitoring
+
+- Monitor the participant via the video stream on the laptop in the control room
+- Ensure data quality remains stable throughout the session 
+
+### 3.5 Post-Session Procedures
+
+#### 3.5.1 Ending the Recording
+
+1. Stop recording and disconnect the amplifier in the software
+2. Remove the cap from the participant's head
+3. Place the amplifier by the sink (still attached to the cap)
+4. Escort the participant out and show them to the hair-washing station if needed
+
+#### 3.5.3 Cap Cleaning Procedure
+
+**Preparation:**
+
+1. Wash your hands thoroughly (they likely have gel on them)
+2. Disconnect the amplifier from the cap
+3. Place the amplifier holder and as much of the cable as possible in the clear protective bag
+4. Charge amplifier if needed (see instructions below)
+5. Store amplifier in the appropriate kit
+
+<div align="center">
+
+> [Watch video of how disconnect the amplifier from the cap]()
+</div>
+
+**Cleaning:**
+
+1. Clean the cap using the mascara-style brushes at the lab sink
+2. Ensure all gel is removed from each electrode
+3. Rinse thoroughly with water
+
+
+<div align="center">
+
+> [Watch official MBT cap cleaning tutorial video here](https://www.youtube.com/watch?v=pPvsxgS5FQ4)
+</div>
+
+**Drying and Storage:**
+
+1. Place the clean cap on a towel by the sink to dry (keep amplifier holder in the protective bag so that it does not get wet)
+2. Allow the cap to dry completely before storing
+3. Once dry, store the cap in the appropriate kit
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="./guide_materials/dry_cap.png" width="50%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #000;">
+      Figure 7: Example of how to dry the EEG caps (on a towel, with the amplifer securely bundled in protective plastic bag). 
+    </figcaption>
+  </figure>
+</div>
+
+**Cleanup:**
+
+1. Push excess gel back into the gel container
+2. Clean syringes with water
+3. Dispose of syringe tips in the biohazard waste bucket
+4. Empty any lab trash into the hallway trashcans 
+
+**Charge amplifiers:**
+
+1. Find USB in EEG kit for your amplifier 
+2. Plug USB-C into amplifier and USB-A into computer for charging
+3. Charging can take several hours so be sure to leave enough time between participants to get a full charge. 
+4. When the amplifier is done charging, a green light will appear
+5. After charging, please return amplifier & USB charger to box with EEG kit 
+
+
+## 4. Equipment Maintenance
+
+### 4.1 Consumables Management
+
+**Monitor and maintain adequate supplies of:**
+
+- Conductive gel (check expiration dates)
+- Syringes and tips
+- Electrode cleaning brushes
+- Paper towels
+- Shampoo and towels
+
+**Reporting:**
+
+- Notify the Lab Manager when supplies are running low (before completely depleted)
+- Report any equipment malfunctions immediately
+- Log any issues in the equipment log
+
+### 4.2 Regular Maintenance Schedule
+
+**After each use:**
+
+- Clean cap thoroughly
+- Inspect electrodes for damage
+- Ensure amplifier is stored properly
+
+**Weekly:**
+
+- Check gel expiration dates
+- Verify all equipment is accounted for
+- Clean lab surfaces
+
+**Monthly:**
+
+- Deep clean all caps
+- Inventory all supplies
+- Report equipment status to Lab Manager
+
+---
+
+## 5. Troubleshooting
+
+### 5.1 LSL Stream Not Visible
+
+If you cannot see the LSL stream:
+
+1. Go to **Start** and search for "allow an app through windows firewall"
+2. Click **Change settings**
+   - You may need to elevate privileges with Heimdal first
+   - Enter the COBE Lab's username and password
+3. Click **Allow another app**
+   - For the sending computer: typically **Python**
+   - For the receiving computer: typically ** MBTstreamer**
+4. To find the app location:
+   - Open PowerShell
+   - Type `python list`
+   - Copy the path into the pop-up window
+5. Click **OK**
+
+### 5.2 Bluetooth Connection Issues
+
+**Before first use of a new Bluetooth dongle:**
+
+1. Open **Device Manager**
+2. Locate and disable the internal Bluetooth driver for the dongle
+3. **Do this before plugging in the dongle for the first time**
+
+### 5.3 High Impedance Troubleshooting
+
+If an electrode consistently shows high impedance:
+
+- Check that hair is moved aside sufficiently
+- Add more gel
+- Gently press and rotate the electrode against the scalp
+- Ensure the electrode is making good scalp contact (not sitting on hair)
+
+### 5.4 Poor Signal Quality
+
+- Re-check impedance of all electrodes
+- Verify reference and ground electrodes are well below 10kΩ
+- Check that amplifier connections are secure
+- Ensure participant is relaxed and minimizing muscle tension
+
+---
+
+## Contact Information
+
+**Lab Manager:** cobelab@au.dk
+
+**LICS Representative:** Anna Zamm (azamm@cc.au.dk)
+
+---
+
+<div style="page-break-before: always;"></div>
+
+## Appendix A: Head Measurement Log
+
+Use this log to track head measurements and cap sizes for each experimental session. This helps ensure consistency across sessions and aids in equipment planning.
+
+<table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Experiment Session #</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Date</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Head Measurement(s)</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Cap Size(s) Used</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+**Instructions:**
+- Record the session number or participant ID
+- Enter the date in DD/MM/YYYY format
+- Record head circumference in cm (e.g., 56cm, 54cm, 58cm)
+- Note which cap(s) were used (e.g., PRO_00116, PRO_00112)
+
+---
+
+<div style="page-break-before: always;"></div>
+
+## Appendix B: Training Acknowledgement Form
+
+### COBE EEG Laboratory Equipment Training Acknowledgement
+
+**User Information:**
+
+Name: _______________________________________________
+
+Position (check one):  
+☐ Principal Investigator  
+☐ Postdoctoral Researcher  
+☐ PhD Student  
+☐ Bachelor's/Master's Student  
+
+Department: _______________________________________________
+
+Email: _______________________________________________
+
+Date: _______________________________________________
+
+---
+
+### Training Completion Checklist
+
+I confirm that I have completed the following requirements:
+
+☐ Submitted COBE Lab pre-study form for approval by Lab Manager and LICS representative
+
+☐ Been registered in the equipment usage log
+
+☐ Read the COBE EEG Laboratory User Manual (Version 1.0) in its entirety
+
+☐ Understand the standard operating procedures for EEG data collection
+
+☐ Understand the equipment maintenance and cleaning procedures
+
+☐ Understand the troubleshooting procedures
+
+☐ Know how to contact the Lab Manager for equipment issues or questions
+
+---
+
+### Equipment to Be Used
+
+Please list the specific equipment assigned to your experiment:
+
+Amplifier ID(s): _______________________________________________
+
+Cap Size(s): _______________________________________________
+
+Other Equipment: _______________________________________________
+
+---
+
+### User Acknowledgement
+
+I acknowledge that:
+
+- I have read and understood all sections of the COBE EEG Laboratory User Manual
+- I will follow all standard operating procedures outlined in this manual
+- I will maintain equipment properly and report any issues immediately to the Lab Manager
+- I will book equipment and rooms according to COBE Lab policy
+- I am responsible for proper cleaning and storage of equipment after each use
+- I understand that failure to follow these procedures may result in loss of equipment access
+
+**User Signature:** _______________________________  **Date:** _______________
+
+---
+
+### Principal Investigator Acknowledgement (Required for Postdocs, PhD Students, and Bachelor's/Master's Students)
+
+I, as the Principal Investigator, acknowledge that:
+
+- I am aware that the above-named individual will be using EEG equipment in the COBE Lab
+- I confirm that this individual has received appropriate training and supervision
+- I take responsibility for ensuring proper equipment use by this individual
+
+**PI Name (print):** _______________________________________________
+
+**PI Signature:** _______________________________  **Date:** _______________
+
+---
+
+### For Bachelor's/Master's Students Only
+
+**Supervised Pilot Session Confirmation:**
+
+I confirm that the student named above has completed at least one supervised pilot session with me before collecting participant data.
+
+**PI Signature:** _______________________________  **Date:** _______________
+
+---
+
+**Please submit this completed form to the Lab Manager before using EEG equipment.**
+
+**Lab Manager Contact:** cobelab@au.dk
+
+---
+
+*This manual is a living document and will be updated as procedures are refined. Please report any errors or suggestions for improvement to the Lab Manager.*
