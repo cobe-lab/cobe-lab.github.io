@@ -158,10 +158,9 @@ All EEG equipment is stored in cabinet #5 in the EEG lab control room.
 8. Battery level is indicated in the upper left corner
 9. If charged, no need to do more. If not charged, see charging instructions at bottom of manual. 
 
-<div align="center">
 
 [Watch video of how to open mbt software](https://youtu.be/vnpgimI0PW8)
-</div>
+
 
 #### 3.1.1 Prepare Documentation
 
