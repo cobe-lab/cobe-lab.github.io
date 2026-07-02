@@ -158,9 +158,11 @@ All EEG equipment is stored in cabinet #5 in the EEG lab control room.
 8. Battery level is indicated in the upper left corner
 9. If charged, no need to do more. If not charged, see charging instructions at bottom of manual. 
 
-
-[Watch video of how to open mbt software](https://youtu.be/vnpgimI0PW8)
-
+<div align="center">
+  <a href="https://youtu.be/vnpgimI0PW8)">
+    Watch video of how to open mbt software
+  </a>
+</div>
 
 #### 3.1.1 Prepare Documentation
 
@@ -313,11 +315,12 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
       Figure 6: Example EEG cap box for EasyCap caps, also found in Cabinet #5. 
     </figcaption>
   </figure>
-</div>
+
 
 <div align="center">
-
-> [Watch video of how adjust settings for impedence measurement](https://youtu.be/NAlAlnSV24I)
+  <a href="https://youtu.be/NAlAlnSV24I">
+    Watch video of how adjust settings for impedence measurement
+  </a>
 </div>
 
 #### 3.3.4 Final Signal Check
@@ -343,9 +346,11 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
     - Open the Signals tab to monitor Signal + triggers
 4. Start your experiment on the stimulus presentation machine 
 
-<div align="center">
 
-> [Watch video of how to make recording in mbt software](https://youtu.be/5oC-Jjeuayc)
+<div align="center">
+  <a href="https://youtu.be/5oC-Jjeuayc">
+    Watch video of how to make recording in mbt software
+  </a>
 </div>
 
 
@@ -388,9 +393,11 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
 4. Charge amplifier if needed (see instructions below)
 5. Store amplifier in the appropriate kit
 
-<div align="center">
 
-> [Watch video of how disconnect the amplifier from the cap]()
+<div align="center">
+  <a href="https://youtube.com/shorts/z5UG28plQ80?feature=share">
+    Watch video of how disconnect the amplifier from the cap
+  </a>
 </div>
 
 **Cleaning:**
@@ -399,11 +406,12 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
 2. Ensure all gel is removed from each electrode
 3. Rinse thoroughly with water
 
-
 <div align="center">
-
-> [Watch official MBT cap cleaning tutorial video here](https://www.youtube.com/watch?v=pPvsxgS5FQ4)
+  <a href="https://www.youtube.com/watch?v=pPvsxgS5FQ4">
+    Watch official MBT cap cleaning tutorial video here
+  </a>
 </div>
+
 
 **Drying and Storage:**
 
