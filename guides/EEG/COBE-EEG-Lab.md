@@ -159,7 +159,7 @@ All EEG equipment is stored in cabinet #5 in the EEG lab control room.
 9. If charged, no need to do more. If not charged, see charging instructions at bottom of manual. 
 
 
-</center>[Watch video of how to open mbt software](https://youtu.be/vnpgimI0PW8)</center>
+[Watch video of how to open mbt software](https://youtu.be/vnpgimI0PW8)
 
 
 #### 3.1.1 Prepare Documentation
@@ -210,11 +210,12 @@ Ensure the following forms are ready:
 9. Insert the amplifier into the cap's amplifier holder so that the pins are connected 
 10. Snap the amplifier holder into the the cap so that it is secure
 
+
 <div align="center">
-
-> [Watch video of how to insert amplifier into cap](https://youtube.com/shorts/osUlLfFy6xo?feature=share)
+  <a href="https://youtube.com/shorts/osUlLfFy6xo?feature=share">
+    Watch video of how to insert amplifier into cap
+  </a>
 </div>
-
     
 ### 3.2 Participant Arrival and Cap Fitting
 
