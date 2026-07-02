@@ -689,6 +689,7 @@ Use this log to track head measurements and cap sizes for each experimental sess
 </table>
 
 **Instructions:**
+
 - Record the session number or participant ID
 - Enter the date in DD/MM/YYYY format
 - Record head circumference in cm (e.g., 56cm, 54cm, 58cm)
@@ -698,7 +699,108 @@ Use this log to track head measurements and cap sizes for each experimental sess
 
 <div style="page-break-before: always;"></div>
 
-## Appendix B: Training Acknowledgement Form
+## Appendix B: Equipment Log
+Use this log to track equipment usage and any comments/issues that arise during testing.
+
+<table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Experiment Session #</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Researcher(s)</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Study responsible</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Amplifiers used</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Caps used</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Timing test equipment used</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Comments</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## Appendix C: Training Acknowledgement Form
 
 ### COBE EEG Laboratory Equipment Training Acknowledgement
 
