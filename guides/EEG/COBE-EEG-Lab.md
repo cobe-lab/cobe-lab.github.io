@@ -446,6 +446,46 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
 A test of charging time from 30% to 100% took roughly 2,5 hours.
 A test of how quickly the battery gets drained showed that the amplifiers loose roughly 10% battery per hour. 
 
+<table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Time of day</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: left;">Battery level</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 4. Equipment Maintenance
 
 ### 4.1 Consumables Management
