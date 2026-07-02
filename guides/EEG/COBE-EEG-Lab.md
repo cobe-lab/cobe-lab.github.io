@@ -315,13 +315,14 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
       Figure 6: Example EEG cap box for EasyCap caps, also found in Cabinet #5. 
     </figcaption>
   </figure>
-
+</div>
 
 <div align="center">
   <a href="https://youtu.be/NAlAlnSV24I">
     Watch video of how adjust settings for impedence measurement
   </a>
 </div>
+
 
 #### 3.3.4 Final Signal Check
 
@@ -345,7 +346,7 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
     - Click PC recording (otherwise you will save to SD card on the amplifier, which we do not have a protocol for at the moment)
     - Open the Signals tab to monitor Signal + triggers
 4. Start your experiment on the stimulus presentation machine 
-
+</div>
 
 <div align="center">
   <a href="https://youtu.be/5oC-Jjeuayc">
