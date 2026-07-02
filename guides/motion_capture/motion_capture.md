@@ -71,7 +71,7 @@ as sharp light in the recording area can lead to signal distortions.
 
 1. Start computer
 2. Connect all cables except for the camera power cable
-3. The DHCP server should already be running, otherqise start it from the menu
+3. The DHCP server should already be running, otherwise start it from the menu
 4. Connect the cameras by plugging in the power plug
 5. Wait until the cameras no longer flash a green light
 6. Open QTM. Choose your project from the list or create a new one for your experiment
