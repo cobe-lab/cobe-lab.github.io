@@ -447,6 +447,8 @@ A test of charging time from 30% to 100% took roughly 2,5 hours.
 A test of how quickly the battery gets drained showed that the amplifiers loose roughly 10% battery per hour. 
 
 
+<div style="page-break-before: always;"></div>
+
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
   <thead>
     <tr style="background-color: #f2f2f2;">
