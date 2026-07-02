@@ -28,3 +28,4 @@ If you have any comments or suggestions for improvements, please let the lab man
 
 ---
 *This website has been created and is managed by the Cognition and Behavior Lab's Lab Manager. Thank you to Jesper Fischer and Anna Zamm for contributions to the guides.*
+*July 2026*
