@@ -456,32 +456,32 @@ A test of how quickly the battery gets drained showed that the amplifiers loose 
 
   <tbody>
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">09.08</td>
+      <td style="border: 1px solid black; padding: 8px;">95%</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">10.37</td>
+      <td style="border: 1px solid black; padding: 8px;">80%</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">11.21</td>
+      <td style="border: 1px solid black; padding: 8px;">72%</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">12.29</td>
+      <td style="border: 1px solid black; padding: 8px;">60%</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">13.25</td>
+      <td style="border: 1px solid black; padding: 8px;">50%</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">14.25</td>
+      <td style="border: 1px solid black; padding: 8px;">40%</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
-      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">15.21</td>
+      <td style="border: 1px solid black; padding: 8px;">30%</td>
     </tr>
   </tbody>
 </table>
