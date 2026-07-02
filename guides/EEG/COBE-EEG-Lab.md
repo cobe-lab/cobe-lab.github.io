@@ -446,6 +446,7 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
 A test of charging time from 30% to 100% took roughly 2,5 hours.
 A test of how quickly the battery gets drained showed that the amplifiers loose roughly 10% battery per hour. 
 
+</div>
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
   <thead>
     <tr style="background-color: #f2f2f2;">
@@ -485,6 +486,8 @@ A test of how quickly the battery gets drained showed that the amplifiers loose 
     <tr>
   </tbody>
 </table>
+</div>
+
 
 ## 4. Equipment Maintenance
 
@@ -585,6 +588,7 @@ If an electrode consistently shows high impedance:
 
 Use this log to track head measurements and cap sizes for each experimental session. This helps ensure consistency across sessions and aids in equipment planning.
 
+</div>
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
   <thead>
     <tr style="background-color: #f2f2f2;">
@@ -687,6 +691,8 @@ Use this log to track head measurements and cap sizes for each experimental sess
     </tr>
   </tbody>
 </table>
+</div>
+
 
 **Instructions:**
 
