@@ -8,7 +8,7 @@ nav_order: 1
 ## User Manual
 
 **Version 1.0**  
-**Last Updated: June 2026**
+**Last Updated: July 2026**
 
 ## Table of Contents
 
