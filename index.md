@@ -20,7 +20,7 @@ Here is a condensed list of available equipment at Cognition and Behavior Lab.
 - Enobio 8 EEG
 - Brain Products EEG
 - mBrainTrain EEG
-- QTM Motion Capture system
+- Qualisys Motion Capture system
 
 See a full list of equipment and other resources [here](https://bss.au.dk/en/cognition-and-behavior-lab/for-researchers/labs-equipment).
 
