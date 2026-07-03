@@ -584,6 +584,7 @@ If an electrode consistently shows high impedance:
 ## Appendix A: Head Measurement Log
 
 Use this log to track head measurements and cap sizes for each experimental session. This helps ensure consistency across sessions and aids in equipment planning.
+Find a downloadable version on our (AU-website)[https://bss.au.dk/en/cognition-and-behavior-lab/for-researchers/checklist-for-new-research-projects]
 
 
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
@@ -703,6 +704,7 @@ Use this log to track head measurements and cap sizes for each experimental sess
 
 ## Appendix B: Equipment Log
 Use this log to track equipment usage and any comments/issues that arise during testing.
+Find a downloadable version on our (AU-website)[https://bss.au.dk/en/cognition-and-behavior-lab/for-researchers/checklist-for-new-research-projects]
 
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
   <thead>
@@ -803,6 +805,7 @@ Use this log to track equipment usage and any comments/issues that arise during 
 ---
 
 ## Appendix C: Training Acknowledgement Form
+Find a downloadable version on our (AU-website)[https://bss.au.dk/en/cognition-and-behavior-lab/for-researchers/checklist-for-new-research-projects]
 
 ### COBE EEG Laboratory Equipment Training Acknowledgement
 
