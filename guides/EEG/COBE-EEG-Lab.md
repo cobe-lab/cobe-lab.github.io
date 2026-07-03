@@ -443,7 +443,7 @@ Verify that electrode Cz (electrode #18) is centered between the following anato
 4. When the amplifier is done charging, a green light will appear
 5. After charging, please return amplifier & USB charger to box with EEG kit 
 
-A test of charging time from 30% to 100% took roughly 2,5 hours.
+A test of charging time from 30% to 100% took roughly 2,5 hours with a 20W charger.
 A test of how quickly the battery gets drained showed that the amplifiers loose roughly 10% battery per hour. 
 
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
@@ -575,7 +575,7 @@ If an electrode consistently shows high impedance:
 
 **Lab Manager:** cobelab@au.dk
 
-**LICS Representative:** Anna Zamm (azamm@cc.au.dk)
+**LICS Representative:** contact the Lab Manager to be directed to the LICS Representative
 
 ---
 
