@@ -17,6 +17,7 @@ nav_order: 1
 3. [Standard Operating Procedures](#3-standard-operating-procedures)
 4. [Equipment Maintenance](#4-equipment-maintenance)
 5. [Troubleshooting](#5-troubleshooting)
+6. [Data management in COBE Lab](#6-data-management)
 
 ---
 
@@ -568,6 +569,12 @@ If an electrode consistently shows high impedance:
 - Verify reference and ground electrodes are well below 10kΩ
 - Check that amplifier connections are secure
 - Ensure participant is relaxed and minimizing muscle tension
+
+
+## 6. Data management
+Remember to transfer the data to your personal AU-computer and store it correctly. You should never store data on COBE Lab's computers or iPads due to risk of data theft and data breach. 
+We routinely delete data stored on our equipment, so you are at risk of loosing your data, if you store them on our equipment.
+
 
 ---
 
