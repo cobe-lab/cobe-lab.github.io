@@ -17,9 +17,9 @@ This guide includes:
 
 1. [How to setup for an experiment](#the-setup)
 2. [A guide for running an experiment](#example-experiment)
-3. [How to assess data quality and visualise data in Python](#3data-quality-assessment)
-4. [FAQ](#4faq)
-5. [Data management in COBE Lab](#5data-management)
+3. [How to assess data quality and visualise data in Python](#data-quality-assessment)
+4. [FAQ](#faq)
+5. [Data management in COBE Lab](#data-management)
 
 ---
 
