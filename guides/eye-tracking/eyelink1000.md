@@ -142,7 +142,7 @@ to text files to be able to read them into a programming software. To
 make this easy we provide a small R-function that converts these files
 which you can find [here](.\example%20code/Eyelink1000/EDF_converter.R).
 
-## Data quality accessment
+## Data quality assessment
 
 When piloting your experiment you will have to ensure that the
 eye tracker is properly setup and that the quality of the data is in good
