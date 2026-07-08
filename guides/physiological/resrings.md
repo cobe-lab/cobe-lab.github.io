@@ -21,12 +21,14 @@ To collect data with a ring, you need to download the Senstream app to an apple 
 
 If possible, always remember to charge the rings between participants, because they can quickly run out of battery when in use often.
 
-**This guide includes:**
+## Table of Contents
 
-1. How to prepare for data collection
-2. How to collect data
-3. How to transfer the data from the ring to the *AcqKnowledge software*
-4. Data management in COBE Lab
+1. [How to prepare for data collection](#preparing-for-data-collection)
+2. [How to collect data](#how-to-collect-data-with-the-biopac-senstream-research-rings)
+3. [How to transfer the data from the ring to the *AcqKnowledge software*](#how-to-transfer-the-data-to-acqknowledge)
+4. [Data management in COBE Lab](#data-management)
+
+---
 
 ## Preparing for data collection
 
