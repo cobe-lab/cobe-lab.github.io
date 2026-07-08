@@ -13,7 +13,6 @@ and how to assess data quality and visualise data in Python. The eye-tracker als
 for building experiments and [*Data Viewer*](https://www.sr-research.com/data-viewer/) for data analysis.
 
 ## Table of Contents
-This guide includes:
 
 1. [How to setup for an experiment](#the-setup)
 2. [A guide for running an experiment](#example-experiment)
