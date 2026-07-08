@@ -17,14 +17,16 @@ To get the best quality data, we recommend that the participant uses a chin rest
 If *Tobii Studio* does not support your experimental
 design, you can use *PsychoPy* together with our *EyeLink 1000 eye-tracker*.
 
-**This guide includes:**
+# Table of Contents
 
-1. How to create an experiment
-2. How to run an experiment
-3. How to analyse data in *Tobii Studio*
-4. Instructions for a demo experiment and analysis
-5. How to do eye tracking with *PsychoPy*
-6. Data management in COBE Lab
+1. [How to create an experiment](#creating-and-editing-an-experiment)
+2. [How to run an experiment](#running-an-experiment)
+3. [How to analyse data in *Tobii Studio*](#analyses-in-tobii-studio-and-exporting-data)
+4. [Instructions for a demo experiment and analysis](#demo-experiment-and-analysis)
+5. [How to do eye tracking with *PsychoPy*](#eye-tracking-with-psychopy)
+6. [Data management in COBE Lab](#data-management)
+
+---
 
 ## Creating and editing an experiment
 
