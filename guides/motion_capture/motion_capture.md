@@ -8,6 +8,18 @@ nav_order: 1
 
 **Version 1.0**
 
+## Table of Contents
+
+1. [Safety](#1-safety)
+2. [Hardware overview](#2-hardware-overview)
+3. [Finding Help](#3-finding-help)
+4. [Setting up your experiment](#4-setting-up-your-experiment)
+5. [Start-up routine on each new testing day](#5-start-up-routine-on-each-new-testing-day)
+6. [Closing-down routine after each testing day](#6-closing-down-routine-after-each-testing-day)
+7. [Data management in COBE Lab](#7-data-management)
+
+---
+
 ## 1 Safety
 The Qualisys mocap system is easy and flexible, but it is also **expensive and delicate.** As a user, you need to make sure to treat it well.
 
@@ -65,7 +77,7 @@ and handle the motion capture equipment with care.
     how you store the data. Note: As data files are stored when the recording is stopped, a crash of QTM or the computer will lead
     to data loss. Consider making shorter recordings if possible.
 
-## 5 Start-up routine on each now testing day
+## 5 Start-up routine on each new testing day
 Before you start, the cameras should be switched off, i.e. not connected to power. You probably also want to close the window blinds
 as sharp light in the recording area can lead to signal distortions. 
 
@@ -86,6 +98,12 @@ as sharp light in the recording area can lead to signal distortions.
 putting the markers, the calibration set, the computer and the sync box into their places in the cabinet. Lock the cabinets if other
 people might use the room when you are not currently running your study
 6. Always store the keys for the cabinets in the lock box on the wall, never bring them out of the lab
+
+## 7 Data management
+Remember to transfer the data to your personal AU-computer and store it correctly. You should never store data on COBE Lab's computers due to risk of data theft and data breach. 
+We routinely delete data stored on our equipment, so you are at risk of loosing your data, if you store them on our equipment.
+
+
 
 ---
 
