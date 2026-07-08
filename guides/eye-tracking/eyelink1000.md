@@ -12,14 +12,16 @@ The *Eyelink 1000* is a very precise eye tracke with a sampling rate up to 2000 
 and how to assess data quality and visualise data in Python. The eye-tracker also integrates with [*Experiment Builder*](https://www.sr-research.com/experiment-builder/) 
 for building experiments and [*Data Viewer*](https://www.sr-research.com/data-viewer/) for data analysis.
 
-**This guide includes:**
+## Table of Contents
+This guide includes:
 
-1. How to setup for an experiment
-2. A guide for running an example experiment
-3. How to assess data quality and visualise data in Python
-4. FAQ
-5. Data management in COBE Lab
+1. [How to setup for an experiment](#the-setup)
+2. [A guide for running an experiment](#example-experiment)
+3. [How to assess data quality and visualise data in Python](#3data-quality-assessment)
+4. [FAQ](#4faq)
+5. [Data management in COBE Lab](#5data-management)
 
+---
 
 Before continuing please make sure you have successfully run the
 *stim_pc_guide*, which you can find [here](../setup/stim_pc_guide.html)
