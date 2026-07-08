@@ -58,7 +58,7 @@ Before the session you choose from the list, on the same page where to can start
 - You can mark events by clicking on 'mark event' at the bottom of the screen, and you can see the plots of the recorded data in real time on the screen. 
 - To end the session, click on 'end session' in the top left corner.
 
-## How to transer the data to *AcqKnowledge*
+## How to transfer the data to *AcqKnowledge*
 To analyse the data you need to transfer them to a compatible software, such as [*AcqKnowledge*](https://www.biopac.com/product/acqknowledge-software/) which COBE Lab has access to.
 *AcqKnowledge* offers a range of visualization and analytic tools. The steps below convert the data files to .csv files, so you can analyze your data in which ever program you prefer that reads .csv files.
 
