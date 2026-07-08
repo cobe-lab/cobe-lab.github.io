@@ -20,12 +20,13 @@ in a lot of equipment, including wireless options, that allow the
 researcher to measure variables relating to skeletal muscle activity,
 skin conductance, and cardiovascular measures.
 
-**This guide includes:**
+## Table of Contents
 
-1.  A list of the lab’s BIOPAC equipment and software
-2.  How to setup for an experiment
-3.  How to run an example experiment
-4.  Data management in COBE Lab
+1.  [A list of the lab’s BIOPAC equipment and software](#biopac-hardware-and-software)
+2.  [How to setup for an experiment](#the-setup)
+3.  [Data management in COBE Lab](#data-mangement)
+
+---
 
 BIOPAC equipment is simple to set up. Central to the system is the MP150
 data acquisition module. A researcher then adds separate amplifier
