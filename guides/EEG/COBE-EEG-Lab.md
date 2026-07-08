@@ -12,11 +12,11 @@ nav_order: 1
 
 ## Table of Contents
 
-1. [Equipment Access Policy](#equipment-access-policy)
-2. [Equipment Inventory](#equipment-inventory)
-3. [Standard Operating Procedures](#standard-operating-procedures)
-4. [Equipment Maintenance](#equipment-maintenance)
-5. [Troubleshooting](#troubleshooting)
+1. [Equipment Access Policy](#1-equipment-access-policy)
+2. [Equipment Inventory](#2-equipment-inventory)
+3. [Standard Operating Procedures](#3-standard-operating-procedures)
+4. [Equipment Maintenance](#4-equipment-maintenance)
+5. [Troubleshooting](#5-troubleshooting)
 
 ---
 
