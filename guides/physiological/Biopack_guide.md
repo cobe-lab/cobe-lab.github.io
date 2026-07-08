@@ -24,7 +24,7 @@ skin conductance, and cardiovascular measures.
 
 1.  [A list of the lab’s BIOPAC equipment and software](#biopac-hardware-and-software)
 2.  [How to setup for an experiment](#the-setup)
-3.  [Data management in COBE Lab](#data-mangement)
+3.  [Data management in COBE Lab](#data-management)
 
 ---
 
