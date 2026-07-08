@@ -17,7 +17,7 @@ To get the best quality data, we recommend that the participant uses a chin rest
 If *Tobii Studio* does not support your experimental
 design, you can use *PsychoPy* together with our *EyeLink 1000 eye-tracker*.
 
-# Table of Contents
+## Table of Contents
 
 1. [How to create an experiment](#creating-and-editing-an-experiment)
 2. [How to run an experiment](#running-an-experiment)
