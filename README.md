@@ -1,6 +1,7 @@
 # COBE Lab equipment documentation
 
-This is Cognition and Behavior Lab's quick guides to use our equipment.
+This is Cognition and Behavior Lab's quick guides for how to use our equipment.
+This repository is hosted on GitHub Pages [here](https://cobe-lab.github.io/)
 
 Here is a condensed list of available equipment at Cognition and Behavior Lab.
 
@@ -17,4 +18,7 @@ Here is a condensed list of available equipment at Cognition and Behavior Lab.
 
 See a full list of equipment and other resources [here](https://bss.au.dk/en/cognition-and-behavior-lab/for-researchers/labs-equipment).
 
-*Unfortunately, we do not have the funding for the licenses for the software necessary to use our Aurora eye trackers at the moment. If you wish to use our Aurora eye trackers and have funding to pay for a license, please send an email to the lab manager, Mette, at mettehp@econ.au.dk. 
+*Unfortunately, we do not have the funding for the licenses for the 
+software necessary to use our Aurora eye trackers at the moment. 
+If you wish to use our Aurora eye trackers and have funding to pay for a 
+license, please send an email to the lab manager at cobelab@au.dk. 
