@@ -7,6 +7,12 @@ nav_order: 1
 # COBE EEG Laboratory
 ## User Manual
 
+The lab has two mBrainTrain wireless Smarting Pro amplifiers, that allow the recording of neurophysiological EEG activity as 
+measured by a set of electrodes placed on the scalp. The amplifiers come with 32 channel recording caps and mBrainTrain's 
+recording software, Smarting Pro Streamer. The amplifiers are wireless making them suitable for data collection both inside and 
+outside of the lab. COBE Lab has a dedicated space, lab 1E, for EEG studies with a control room and two testing rooms.
+The control room features four screens connected to four computers in an anteroom, a speaker system and video stream of both testing rooms.
+
 **Version 1.0**  
 **Last Updated: July 2026**
 
