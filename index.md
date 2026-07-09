@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # COBE Lab equipment documentation
 
-This is Cognition and Behavior Lab's quick guides to use our equipment.
+This is Cognition and Behavior Lab's quick guides for how to use our equipment.
 
 Here is a condensed list of available equipment at Cognition and Behavior Lab.
 
