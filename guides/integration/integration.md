@@ -14,11 +14,11 @@ together with the *Biopac* setup.
 Before continuing please make sure you have successfully run the
 following guides
 
-- [*Stim pc guide*](.\guides/setup/stim_pc_guide.md)
+- [*Stim pc guide*](../setup/stim_pc_guide.md)
 
-- [*Eyelink 1000 guide*](.\guides/eye-tracking/eyelink1000.md)
+- [*Eyelink 1000 guide*](../eye-tracking/eyelink1000.md)
 
-- [*Biopac guide*](.\guides/physiological/biopack.md)
+- [*Biopac guide*](../physiological/Biopack_guide.md)
 
 
 ------------------------------------------------------------------------
