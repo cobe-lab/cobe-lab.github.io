@@ -14,7 +14,7 @@ Running this simple experiment before trying to connect with the *Eyelink 1000* 
 
 ## Running the experiment on the Stimulus PC
 
-In order to run the experiment on the Stimulus PC, simply open the [Python experiment.py](/example code/Room_A2/Eyelink1000_exp.py) in VScode and run the script. This should open a new full-screen window that changes in luminance with a colored square in the lower left corner.
+In order to run the experiment on the Stimulus PC, simply open the [Python experiment.py](../../example code/Lab_2A/Eyelink1000_exp) in VScode and run the script. This should open a new full-screen window that changes in luminance with a colored square in the lower left corner.
 
 ## Running the experiment on a local machine
 
