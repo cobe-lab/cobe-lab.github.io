@@ -14,7 +14,7 @@ Running this simple experiment before trying to connect with the *Eyelink 1000* 
 
 ## Running the experiment on the Stimulus PC
 
-In order to run the experiment on the Stimulus PC, simply open the [Python experiment.py](https://github.com/cobe-lab/cobe-lab.github.io/tree/main/example%20code/Lab_2A) in VScode and run the script. This should open a new full-screen window that changes in luminance with a colored square in the lower left corner.
+In order to run the experiment on the Stimulus PC, simply open the [Python experiment.py](https://github.com/cobe-lab/cobe-lab.github.io/blob/main/example%20code/Lab_2A/Eyelink1000_exp.py) in VScode and run the script. This should open a new full-screen window that changes in luminance with a colored square in the lower left corner.
 
 ## Running the experiment on a local machine
 
@@ -23,4 +23,4 @@ We recommend using python 3.9 to run the experiment (as this is what the Stimulu
       
 `pip install psychopy`
 
-Once successfully run you can move to connecting the *Eyelink 1000. Please find the associated guide [here](../eye-tracking/eyelink1000)
+Once successfully run you can move to connecting the *Eyelink 1000.* Please find the associated guide [here](../eye-tracking/eyelink1000)
