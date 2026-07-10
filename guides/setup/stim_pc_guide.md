@@ -1,8 +1,8 @@
 ---
 title: Lab 2A Stimulus PC
 layout: default
-parent: Equipment Setup
-nav_order: 1
+parent: Eye Tracking
+nav_order: 3
 ---
 
 
