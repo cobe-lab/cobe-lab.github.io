@@ -8,7 +8,7 @@ nav_order: 1
 
 This is a quick guide to using the [*Eyelink 1000*](https://www.sr-research.com/eyelink-1000-plus/) eye tracker with an example experiment.
 
-The *Eyelink 1000* is a very precise eye tracke with a sampling rate up to 2000 Hz. The guide includes how to run an example experiment using PsychoPy
+The *Eyelink 1000* is a very precise eye tracker with a sampling rate up to 2000 Hz. The guide includes how to run an example experiment using PsychoPy
 and how to assess data quality and visualise data in Python. The eye-tracker also integrates with [*Experiment Builder*](https://www.sr-research.com/experiment-builder/) 
 for building experiments and [*Data Viewer*](https://www.sr-research.com/data-viewer/) for data analysis.
 
@@ -23,14 +23,13 @@ for building experiments and [*Data Viewer*](https://www.sr-research.com/data-vi
 ---
 
 Before continuing please make sure you have successfully run the
-*stim_pc_guide*, which you can find [here](../setup/stim_pc_guide.html)
+*stim_pc_guide*, which you can find [here](../setup/stim_pc_guide)
 
 All code for running the experiment script and visualisation of the
 data can be found in the associated [github
-repository](https://github.com/cobe-lab/cobe-lab.github.io/tree/test) in
+repository](https://github.com/cobe-lab/cobe-lab.github.io/tree/main) in
 the following directory: `cobe-lab.github.io/example code/Eyelink1000`
-  
-------------------------------------------------------------------------
+
 
 ## The Setup
 
