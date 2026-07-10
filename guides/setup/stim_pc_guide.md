@@ -23,4 +23,4 @@ We recommend using python 3.9 to run the experiment (as this is what the Stimulu
       
 `pip install psychopy`
 
-Onces successfully run you can move to connecting the *Eyelink 1000* please find the associated guide [here](../guides/eye-tracking/eyelink1000.md)
+Onces successfully run you can move to connecting the *Eyelink 1000* please find the associated guide [here](../guides/eye-tracking/eyelink1000)
