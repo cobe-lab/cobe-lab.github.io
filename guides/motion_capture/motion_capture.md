@@ -36,16 +36,122 @@ and handle the motion capture equipment with care.
 ## 2 Hardware overview
 - 8 Miqus cameras: 4 normal and 4 wide-lense
     - The order, starting from the first one connected to the computer: 1 normal, 2 normal, 3 wide, 4 wide, 5 normal, 6 wide, 7 wide, 8 normal.
+
+<div style="height: 40px;"></div>
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="../../assets/images/Miqus cameras.jpg" width="40%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #FFF;">
+      Figure 1: Two Miqus cameras.
+    </figcaption>
+  </figure>
+</div>
+
 - 1 video camera
+
+<div style="height: 40px;"></div>
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="../../assets/images/video camera (left) and Miqus camera (right).png" width="40%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #FFF;">
+      Figure 2: Video camera to the left. Misqus camera to the right.
+    </figcaption>
+  </figure>
+</div>
+
 - 1 sync box
     - It can be used for connecting all kinds of other equipment. It is not a requirement to connect it, so you can as well choose to have
     your project without it. In this case, the first camera directly connects to the power injector.
+
+<div style="display: flex; justify-content: flex-start; gap: 20px; margin-bottom: 30px;">
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="../../assets/images/sync box.png"
+         alt="Sync box"
+         style="width: 100%; max-width: 300px; display: block;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #FFF;">
+      Figure 3a: Sync box.
+    </figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="../../assets/images/sync box connections.jpg"
+         alt="Sync box connections"
+         style="width: 100%; max-width: 300px; display: block;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #FFF;">
+      Figure 3b: Sync box connections.
+    </figcaption>
+  </figure>
+
+</div>
+
 - 1 power injector
     - It receives the cable from the first camera or the sync box as input and has the camera power plug and the data connection to the computer as outputs.
+
+<div style="height: 40px;"></div>
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="../../assets/images/power injector.png" width="40%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #FFF;">
+      Figure 4: Power injector.
+    </figcaption>
+  </figure>
+</div>
+
 - 1 camera power plug
+
+<div style="height: 40px;"></div>
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="../../assets/images/camera power plug.jpg" width="40%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #FFF;">
+      Figure 4: Power injector.
+    </figcaption>
+  </figure>
+</div>
+
 - Longer and shower ethernet cables creating the daisy chain (hidden behind the ceiling tracks)
 - 1 calibration device ("magic wand") and axis calibration device ("L-frame")
+
+<div style="display: flex; justify-content: flex-start; gap: 20px; margin-bottom: 30px;">
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="../../assets/images/magic wand.jpg"
+         alt="Sync box"
+         style="width: 100%; max-width: 300px; display: block;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #FFF;">
+      Figure 5a: Magic wand.
+    </figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="../../assets/images/L-Frame.jpg"
+         alt="Sync box connections"
+         style="width: 100%; max-width: 300px; display: block;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #FFF;">
+      Figure 5b: L-Frame.
+    </figcaption>
+  </figure>
+
+</div>
+
 - Many small, medium and large markers with stands
+
+<div style="height: 40px;"></div>
+
+<div style="text-align:; margin-bottom: 30px;">
+  <figure style="margin: 0; display: inline-block;">
+    <img src="../../assets/images/markers.png" width="40%" alt="Amplifier" style="display: block;">
+    <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #FFF;">
+      Figure 6: Markers of three sizes.
+    </figcaption>
+  </figure>
+</div>
+
 - 1 computer
 - Lot of Velcro, hoodies, caps, wristbands, skin-sensitive tape of various types, etc.
 
