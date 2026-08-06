@@ -129,7 +129,7 @@ and handle the motion capture equipment with care.
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="../../assets/images/L-Frame.jpg"
+    <img src="../../assets/images/L-frame.jpg"
          alt="Sync box connections"
          style="width: 100%; max-width: 300px; display: block;">
     <figcaption style="font-size: 0.9em; margin-top: 8px; color: #FFF;">
