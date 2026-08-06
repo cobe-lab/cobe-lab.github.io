@@ -109,7 +109,7 @@ and handle the motion capture equipment with care.
   <figure style="margin: 0; display: inline-block;">
     <img src="../../assets/images/camera power plug.jpg" width="40%" alt="Amplifier" style="display: block;">
     <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #FFF;">
-      Figure 4: Power injector.
+      Figure 5: Camera power plug.
     </figcaption>
   </figure>
 </div>
@@ -124,7 +124,7 @@ and handle the motion capture equipment with care.
          alt="Sync box"
          style="width: 100%; max-width: 300px; display: block;">
     <figcaption style="font-size: 0.9em; margin-top: 8px; color: #FFF;">
-      Figure 5a: Magic wand.
+      Figure 6a: Magic wand.
     </figcaption>
   </figure>
 
@@ -133,7 +133,7 @@ and handle the motion capture equipment with care.
          alt="Sync box connections"
          style="width: 100%; max-width: 300px; display: block;">
     <figcaption style="font-size: 0.9em; margin-top: 8px; color: #FFF;">
-      Figure 5b: L-Frame.
+      Figure 6b: L-Frame.
     </figcaption>
   </figure>
 
@@ -147,7 +147,7 @@ and handle the motion capture equipment with care.
   <figure style="margin: 0; display: inline-block;">
     <img src="../../assets/images/markers.png" width="40%" alt="Amplifier" style="display: block;">
     <figcaption style="font-style: bold; font-size: 0.9em; margin-top: 8px; color: #FFF;">
-      Figure 6: Markers of three sizes.
+      Figure 7: Markers of three sizes.
     </figcaption>
   </figure>
 </div>
